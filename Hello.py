@@ -7,7 +7,7 @@ LOGGER = get_logger(__name__)
 
 
 # ----------------------------------------------------------------------------------
-def run()
+def run():
   st.set_page_config(page_title="Chat Bernhoeft - Gestão de Terceirizados", layout="wide", initial_sidebar_state="collapsed")
   st.title("Chat Bernhoeft - Gestão de Terceirizados")
 
