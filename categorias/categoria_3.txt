@@ -1,0 +1,134 @@
+**Categoria: Anexar, Excluir e Consultar Documentos - V3**
+
+1. **Pergunta 1:** Como excluir os documentos anexados no carregamento Mensal?
+- **Resposta 1:** Para excluir os documentos que já foram anexados, siga o passo a passo destacado abaixo. Para uma melhor visualização das imagens, basta clicar sobre elas.
+    - Atenção: Esta ação só é possível quando o documento ainda não foi analisado e se a competência não tiver sido lançada como “concluído”. Após a análise, o documento passa a integrar o banco de dados, não sendo possível a sua exclusão. Para correção do mesmo, basta inserir um novo documento e aguardar uma nova avaliação.
+        1- Acesse a aba Carregamento de Documentos – Mensal, em seguida selecione a competência na qual deseja excluir o documento e clique em “Acessar carregamento”.
+        2- Ao acessar a competência, nas etapas 06 ou 07 desmarque a opção “Mostrar apenas pendentes”;
+        3- Para visualizar os documentos clique no título do documento, logo abaixo ficara disponível os documentos já anexados;
+        4- Para excluir o documento clique no ícone da “lixeira”:
+    Se desejar anexar outro documento, clique no ícone ‘Carregar arquivo” simbolizado por.
+
+
+2. **Pergunta:** Como reparar o PDF corrompido?
+- **Resposta:** Quando o PDF está totalmente ou parcialmente corrompido, não conseguimos anexar no portal, pois informa o seguinte erro ao tentar anexar ou salvar documento:
+    - Seguindo o passo a passo abaixo, é possível reparar o documento e anexar no portal:
+        - Localize o documento no seu computador, clique com o botão direito do mouse e escolha a opção “abrir com”;
+        - Selecione “Word”;
+        - Depois que abrir o Word, clique em “Arquivo”;
+        - Depois clique em “Exportar”;
+        - Escolha a opção “Criar PDF/XPS”
+        - Depois é só salvar o novo PDF e inserir no portal.
+    - Importante: Quando for salvar o novo documento, salve com um nome diferente (pode ser apenas 1 caractere a mais).
+
+
+3. **Pergunta 3:** Como visualizar os documentos dos trabalhadores anexados?
+- **Resposta 3:** Para visualizar os documentos que já foram anexados, siga as orientações abaixo:
+        1- Na aba menu, clique em “Carregamento de Documentos”;
+        2- Depois clique em “Carregar Mobilização” ou "Carregar Mensal" se for o caso; 
+        3- Pesquise pelo contrato ou contratada;
+        4- Localize a mobilização ou a competência do colaborador e clique em acessar carregamento;
+        5- Na etapa 7 do carregamento, desmarque a flag "Mostrar apenas pendentes";
+        6- Clique no nome do colaborador que você deseja visualizar o anexo feito;
+    - Fazendo isso, você pode visualizar o status da sua documentação, se atentando a coluna "progresso". Caso deseje baixar os arquivos, basta clicar em cima do anexo que o download será feito automaticamente.
+
+
+4. **Pergunta 4:** Como visualizar os documentos da empresa anexados?
+- **Resposta 4:** Para visualizar os documentos que já foram anexados, siga as orientações abaixo:
+        1- Na aba menu, clique em “Carregamento de Documentos” ;
+        2- Depois clique em “Carregar Mobilização” ou "Carregar Mensal" se for o caso;  
+        3- Pesquise pelo contrato ou contratada;
+        4- Localize a mobilização ou competência do colaborador e clique em acessar carregamento;
+        5- Na etapa 6 do carregamento, desmarque a flag "Mostrar apenas pendentes";
+        6- Clique no nome do documento que você deseja visualizar o anexo feito;
+    - Fazendo isso, você pode visualizar o status da sua documentação, se atentando a coluna "progresso". Caso deseje baixar os arquivos, basta clicar em cima do anexo que o download será feito automaticamente.
+
+5. **Pergunta 5:** Como Inserir Comentários?
+- **Resposta 5:** Sempre que for preciso justificar a falta de um documento ou informar que o documento solicitado no sistema não se aplica, basta realizar a inclusão de um comentário. Para isso siga as instruções abaixo:
+        1-Clique em “comentário” (ícone verde com formato de balão https://s3.amazonaws.com/movidesk-files/4936A6AA88E969BCB4644069FA896EF0);
+        2-Depois clique em “inserir um comentário” https://s3.amazonaws.com/movidesk-files/664C1593A6A442F478A83C4A51E499FB;
+        3-Digite a justificativa e clique em “salvar” https://s3.amazonaws.com/movidesk-files/873725C1D1961182365037642A60B13A , em seguida em “fechar” https://s3.amazonaws.com/movidesk-files/908D1FB399C868D034A83C70D54ECBFD.
+    - Pronto, o seu comentário ou a sua justificativa foi incluída no sistema e será analisada.
+
+6. **Pergunta 6:** Como anexar documentos em lote?
+- **Resposta 6:** Para anexar um arquivo para vários colaboradores, siga as instruções abaixo:
+    1- Na etapa 7 Anexar Documentos dos trabalhadores, selecione os colaboradores que estão contemplados no arquivo ou cliquei em selecionar todos(se for caso).
+    2- Selecione o tipo do documento e clique em Carregar Arquivo.
+    3- Aguarde até que o documento carregue no sistema.   ​
+- Atenção: Para inclusão dos documentos utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.
+- Atenção: Reforçamos que, o carregamento de documento em lote é um recurso que deve ser utilizado para a inclusão de um documento que, por sua natureza, contemple todos ou mais de um colaborador. Não aceitaremos para fins de análise o agrupamento de documentos individuais. 
+
+7. **Pergunta:** Como localizar alguns documentos e modelos de documentos disponibilizados pelo Cliente?
+- **Resposta:** No portal NewContract (V3), você sabia que consegue ter acesso a alguns documentos e modelos de documentos que o seu cliente disponibiliza?
+    - Vamos te ensinar o passo a passo: 
+        - No menu, clique em utilitários; 
+        - Clique em documentos/links por contratante; 
+        - Selecione qual a sua contratante; 
+        - Logo abaixo, se o seu cliente disponibilizou os documentos/modelos irão aparecer a descrição e o documento para realizar o download; 
+        - Baixe o documento clicando em download;
+
+8. **Pergunta 8:** Como regularizar as pendências?
+- **Resposta 8:** Para regularizar as pendências você precisa acessar a competência/mobilização, e fazer o upload dos arquivos nas etapas 6 e 7.
+    - Para localiza-las, siga o passo a passo:  
+        1- Na aba de Menu, clique em "Carregamento de Documentos" e depois "Carregar Mobilização" ou "Carregar Mensal", se for o caso;
+        2- Digite o n° do contrato no campo de busca e clique em "pesquisar". Em seguida o sistema irá exibir todas as competências do contrato;   
+        3- Clique em "Acessar Carregamento", na competência/Mobilização que deseja;
+        4- Para regularizar um documento da empresa, clique na etapa 6;
+        5- Clique no ícone vermelho para visualizar a pendência;
+        6- Para anexar o documento, clique em "carregar arquivo", selecione o arquivo e clique em "Abrir". Caso a pendência não seja aplicável, clique em "Comentário" e depois "Inserir um comentário". Adicione uma justificativa e clique em "Salvar";
+        7- Para regularizar um documento do trabalhador, clique na etapa 7;
+        8- Clique em cima do nome do colaborador, e clique no ícone vermelho para visualizar a pendência;
+        9- Para anexar o documento, clique em "carregar arquivo", selecione o arquivo e clique em "Abrir". Caso a pendência não seja aplicável, clique em "Comentário" e depois "Inserir um comentário". Adicione uma justificativa e clique em "Salvar".
+
+9. **Pergunta 9:** Como anexar documentos da empresa no carregamento mensal?
+- **Resposta 9:** Para anexar os documentos da empresa, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.  
+    - Para inclui os arquivos, siga o passo a passo:   
+        1- Clique na aba Carregamento de Documentos e depois Carregar Mensal;
+        2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências do contrato;
+        3- Após localizar a competência, clique em Acessar Carregamento; 
+        4- Clique na etapa 6- Anexar Documentos da Empresa;
+        5- Clique em cima do nome do documento;
+        ​6- Clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.  
+        7- Após anexar todos os documentos, clique no botão  no final da página.
+        8- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=EfTuZR19YGU
+        - Importante: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes. 
+
+10. **Pergunta 10:** Como anexar documentos da empresa na mobilização?
+- **Resposta 10:** Para anexar os documentos da empresa, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB. Também lembramos de que a mobilização só será analisada após o envio de todos os documentos ou justificativas.
+    - Os documentos da empresa podem ser anexados de duas formas a depender do seu projeto, elas são:
+
+        1- Envio dos documentos na etapa 6:
+            - Clique na aba Carregamento de Documentos e depois Carregar Mobilização; 
+            - Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+            - Após localizar a mobilização, clique em Acessar Carregamento; 
+            - Clique na etapa 6- Anexar Documentos da Empresa; 
+            - Clique em cima do nome do documento;
+            - Clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.          
+            - Após anexar todos os documentos, clique no botão no final da página.
+        ATENÇÃO: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes. 
+
+        2- Envio dos documentos na competência da empresa:
+            - Caso o seu cliente tenha optado por possuir uma mobilização especifica para incluir a documentação da empresa você só precisará seguir os seguintes passos:
+                1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização; 
+                2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+                3-  Após localizar a competência de Documentos da empresa, clique em Acessar Carregamento; 
+                4-  Clique na etapa 1- Anexar Documentos da Empresa; Caso não apareça as solicitações dos documentos, desmarque a opção "Mostrar apenas pendentes";
+                5- Clique em cima do nome do documento; Depois em Carregar Arquivo, selecione o arquivo e clique em Abrir;
+                6- Após inserir todos os arquivos, clique em próximo e será direcionado para a etapa 2. Na etapa 2, clique em Reenviar Documentos Recebidos e pronto, seu arquivo foi enviado para análise. Agora é só aguardar o prazo de análise que é de 3 dias úteis.
+                7- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=EfTuZR19YGU
+                Observação: A mobilização exclusiva para documentação da empresa varia de acordo com o cliente, ou seja, há clientes que a possuem e clientes que não. No caso dos que não possuem a documentação da empresa vai ser solicitada a cada mobilização criada e precisa ser incluída na etapa 6.
+                Observação: Há clientes que possuem a mobilização de documentação da empresa para documentos específicos (Exemplo: Programa de Gerenciamento de Riscos (PGR)). Nesse caso apenas o PGR era incluído nessa mobilização e os demais documentos da empresa (Exemplo: Programa de Controle Médico de Saúde Ocupacional (PCMSO), precisará ser incluído a cada nova mobilização criada.
+
+11. **Pergunta 11:** Como anexar documentos dos trabalhadores:
+- **Resposta 11:** Para anexar os documentos dos trabalhadores, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.  
+    - Para inclui os arquivos, siga o passo a passo:   
+        1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização ou Carregar Mensal, se for o caso; 
+        2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências/mobilizações do contrato; 
+        3- Após localizar a mobilização/competência, clique em Acessar Carregamento; 
+        4- Clique na etapa 7- Anexar Documentos dos Trabalhadores; 
+        5- Clique em cima do nome do colaborador para visualizar a solicitação dos documentos; 
+        ​6- No documento que deseja anexar, clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.  
+        7- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=ZBzCep78ewg
+        Atenção: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes. 
+
+
