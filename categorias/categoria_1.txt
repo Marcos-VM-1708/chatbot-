@@ -1,110 +1,25 @@
-Pergunta,Resposta
-Qual navegador devo utilizar? Qual navegador Recomendado? Estou com problemas ao acessar o sistema pelo navegador.,O nosso sistema deve ser acessado utilizando apenas o navegador Google Chrome. Algumas dicas para um melhor desempenho: Use uma aba na versão "anônima" ou "nova janela sem registro."
-Solução para Lentidão ou Indisponibilidade?,Caso enfrente lentidão ou indisponibilidade, siga as etapas a seguir:
-     1. Certifique-se de que está utilizando o navegador Google Chrome, de preferência, em uma aba anônima.
-     2. Limpe a memória cache do seu navegador.
-     3. Verifique com o setor de tecnologia da sua empresa se os seguintes sites estão liberados para acesso:
-        - noreplay@newcontract.contractweb.com.br
-        - newcontract.contractweb.com.br
-        - contractweb.com.br
-        - privacytools.com.br
-        - privacytools.io
-        - bam-cell.nr-data.net
-        - nr-data.net
-        - fast.conpass.io
-        - conpass.io
-        - google.com
-        - goo.gl
-        - ssl.google-analytics.com
-        - rawgit.com
-        - cdn.privacytools.com.br
-        - chat.movidesk.com
-        - movidesk.com
-     4. Em caso negativo, solicite a liberação desses sites, pois são usados dentro da aplicação do NewContract.
-Como acessar o chat no sistema? Como acessar o chat? Como acessar o chat do newContract?,Para conseguir acessar o chat, siga os 10 passos abaixo ou assita o vídeo:
-   **Link sobre como acessar o chat**: https://www.youtube.com/watch?v=maMpKleFEws
-   Passo 1: Acesse o sistema Contract, no canto inferior direito do sistema, clique no ícone de chat.
-   Passo 2: Para iniciar um atendimento, clique na opção "Iniciar atendimento".
-   Passo 3: Preencha os dados solicitados e depois clique em "Enviar".
-   Passo 4: Confirme os dados e clique em "Sim, estão certos".
-   Passo 5: Para abrir um novo protocolo, clique em "Não". Se você já tem um protocolo aberto, clique em "Sim, já abri" e informe o número.
-   Passo 6: Selecione o assunto do atendimento e depois clique em "Confirmar".
-   Passo 7: Para Mobilização de Trabalhadores, escolha o tipo de serviço e depois clique em "Confirmar".
-   Passo 8: Você receberá um link com o passo a passo do procedimento desejado.
-   Passo 9: Se o link não ajudar, clique em "NÃO". Se sua dúvida não se encaixa nas opções anteriores, escolha outras opções.
-   Passo 10: Após seguir essas orientações, aguarde a interação do atendente.
-   Observações:
-      - Para descobrir como acessar o chat assista o tutorial: https://www.youtube.com/watch?v=maMpKleFEws
-      - Para Homologação, Monitoramento Mensal ou BEXUP, você será direcionado à fila após a escolha.
-Como localizar as competências mensais?,Para localizar as competências, siga estas orientações:
- Passo 1: Clique na aba "Carregamento de Documentos" e em seguida, clique em "Carregar Mensal".
- Passo 2: No campo de busca, digite o número do contrato, depois clique em "Pesquisar" e o sistema exibirá todas as competências relacionadas ao contrato.
- Passo 3: Para filtrar por competência, utilize o filtro "Competência" na tela de carregamento, depois selecione o mês desejado para filtrar as competências.
- Observações: 
-  - O número do contrato pode conter números, letras ou caracteres especiais, como por exemplo: "123/teste".
-  - Certifique-se de inserir o número de contrato corretamente para que o sistema possa localizar as competências.
-  - Caso contrário, o sistema não será capaz de encontrar as competências.
-Como limpar a memória cache (Cookies) do navegador?,O sistema pode apresentar inconsistências ou ficar lento se você não estiver utilizando o navegador Google Chrome, ou estiver com a memória cache cheia. Para limpar os cookies da página (Memória cache) faça o procedimento a seguir:
-     - Clique no ícone do cadeado ao lado esquerdo do link do portal (Barra de endereço).
-     - Ao clicar no cadeado, clique na opção "cookies".
-     - Ao clicar em "cookies", irá mostrar alguns links na tela, clique em "remover". Ao excluir todos os links, clique em "concluído".
-     - Feito esse procedimento, atualize a página clicando em "F5" no seu teclado, ou clicando em "Recarregar esta página" no navegador.
-     - Faça o login novamente e siga com o procedimento que estava tentando realizar.
-Este é o meu primeiro acesso: como definir senha, atualizar dados e termos de uso?,Olá, Fornecedor! Seja bem-vindo(a) a Gestão de Riscos com Terceiros da Bernhoeft. 
-     - Para realizar o seu primeiro acesso no sistema, siga as instruções a seguir:
-      - Ao ser cadastrado no portal Bernhoeft, você receberá um e-mail contendo o link de redefinição de senha e o link do sistema, conforme destacado abaixo:
-      - Para acessar o sistema, primeiro você deve clicar no link para definir a sua senha, conforme orientações a seguir:
-      - Ao clicar no link, você será direcionado para a seguinte tela:
-      - Ao clicar em redefinir senha, o sistema exibirá a seguinte mensagem:
-      - Com a senha definida, acesse o link do sistema enviado por e-mail e insira as suas credenciais:
-      - No seu primeiro acesso, será necessário preencher os campos abaixo:
-      - Pronto! Ao seguir essas orientações, você concluiu o primeiro acesso ao sistema NewContract. Os próximos passos te ensinarão a cadastrar colaboradores e enviar a documentação.
-Não recebi o e-mail com a recuperação de senha, como proceguir?,Para receber a recuperação de senha, siga as orientações descritas neste passo a passo:
-    - Caso você tenha clicado em "Esqueci a senha" mas não tenha localizado o e-mail de recuperação ou não tenha recebido a senha para fazer o seu primeiro acesso, siga as orientações abaixo:
-     - Sempre utilize o navegador Google Chrome para atividades relacionadas ao NewContract.
-     - Antes de clicar em "Esqueci a senha", realize a limpeza de cookies do navegador, pois pode haver um deles que pode estar corrompido, impedindo a solicitação de recuperação de senha.
-     - Caso seja solicitada a senha (esqueci a senha) por meio de uma máquina corporativa e não chegar o e-mail de recuperação, realize a ação utilizando o celular pessoal e/ou computador pessoal.
-     - Verifique se o link está chegando na caixa de spam ou na caixa de lixeira.
-     - Para aqueles que utilizam aplicativos de e-mail (Aplicativo do Outlook, por exemplo), se a caixa de e-mail estiver quase na capacidade máxima, o tempo de sincronização que o aplicativo vai levar para atualizar pode ser demorado, fazendo com que, no momento em que o e-mail de recuperação de senha chegar, o link pode estar expirado por conta do tempo-limite que ele possui (30 minutos). Diante disso, recomendamos que utilize o e-mail no navegador (Google Chrome), pois ao contrário do aplicativo, pelo navegador o e-mail não passa por essa sincronização.
-     - Verifique se a rede corporativa possui alguma restrição com relação ao nosso endereço que envia o link para redefinição de senha (noreply@bernhoeft-auth-prod.firebaseapp.com). Além disso, verifique se solicitando a recuperação de senha por meio de uma rede de internet pessoal (internet residencial ou 4G, por exemplo) o link chega.
-     - Caso use VPN nas atividades, verifique se possui alguma restrição com o endereço mencionado no ponto anterior.
-     - Verifique com o time de T.I da sua empresa se os sites listados a seguir estão habilitados como confiáveis:
-     - Lista de sites para liberar para funcionamento do NewContract:
-         - newcontract.contractweb.com.br
-         - contractweb.com.br
-         - privacytools.com.br
-         - privacytools.io
-         - bam-cell.nr-data.net
-         - nr-data.net
-         - fast.conpass.io
-         - conpass.io
-         - google.com
-         - goo.gl
-         - ssl.google-analytics.com
-         - rawgit.com
-         - cdn.privacytools.com.br
-         - chat.movidesk.com
-         - movidesk.com
-Esqueci a senha, como redefinir a senha de acesso?,Para alterar ou obter uma nova senha, siga o passo a passo abaixo ou assista o vídeo tutorial no final da página:
-      1. Clique em "Redefinir minha senha".
-      2. Digite o e-mail cadastrado e clique em "Redefinir".
-      3. Após clicar em "Redefinir", a seguinte mensagem será exibida:
-      4. Verifique no seu e-mail (caixa de entrada, spam, lixo eletrônico) o link enviado para redefinição. Clique no ícone abaixo:
-      5. Ao acessar o link, crie uma nova senha preenchendo os campos "Nova senha" e "Confirme a nova senha" atendendo os critérios de definição. Posteriormente, clique em "Redefinir senha".
-      6. Após criar a nova senha, informe os dados de acesso (Login, Senha), clique em "Não sou um robô" e depois "Entrar".
-      Observação: Caso não tenha recebido a recuperação de senha por e-mail (verifique também no SPAM e lixo eletrônico). Caso não localize o e-mail, verifique com o setor de TI da sua empresa se existe algum bloqueio no servidor para receber e-mails de "noreply@newcontract.contractweb.com.br".
-Como Identificando os Tipos de Serviço?,A Bernhoeft possui vários tipos de serviço, que são:
+**Pergunta** : Qual navegador devo utilizar? Qual navegador Recomendado? Estou com problemas ao acessar o sistema pelo navegador.
+**Resposta** : O nosso sistema deve ser acessado utilizando apenas o navegador Google Chrome. Algumas dicas para um melhor desempenho: Use uma aba na versão "anônima" ou "nova janela sem registro."
 
-   1. Homologação de Fornecedores:
-     - Nesse serviço, realizamos uma análise nos documentos da possível contratada, com foco na saúde financeira. Na Homologação, as empresas ainda estão no processo de avaliação da oferta de seus serviços. A intenção é encontrar indícios de comprometimento financeiro, histórico de passivos na justiça, regularidade perante as dívidas e outros fatores que podem acarretar na insolvência do fornecedor durante o contrato com os nossos clientes.
-      - Sistema: Contract V2
-      - Link: https://v2.contractweb.com.br/documents/cliente/main_inicio.asp
+**Pergunta** : Solução para Lentidão ou Indisponibilidade?
+**Resposta** : Caso enfrente lentidão ou indisponibilidade, siga as etapas a seguir: 1. Certifique-se de que está utilizando o navegador Google Chrome, de preferência, em uma aba anônima. 2. Limpe a memória cache do seu navegador. 3. Verifique com o setor de tecnologia da sua empresa se os seguintes sites estão liberados para acesso: - noreplay@newcontract.contractweb.com.br - newcontract.contractweb.com.br - contractweb.com.br - privacytools.com.br - privacytools.io - bam-cell.nr-data.net - nr-data.net - fast.conpass.io - conpass.io - google.com - goo.gl - ssl.google-analytics.com - rawgit.com - cdn.privacytools.com.br - chat.movidesk.com - movidesk.com 4. Em caso negativo, solicite a liberação desses sites, pois são usados dentro da aplicação do NewContract.
 
-   2. Monitoramento Mensal:
-     - O monitoramento mensal se trata de um acompanhamento nas documentações trabalhistas e previdenciárias das empresas terceirizadas. Mensalmente analisamos documentos como GFIP, eSocial, Cartão de Ponto, Comprovante de Pagamento de Salários e outros.
-      - Sistema: Definido pelo contratante, pois pode ocorrer em qualquer sistema (Contract V1, Contract V2 e NewContract).
+**Pergunta** : Como acessar o chat no sistema? Como acessar o chat? Como acessar o chat do newContract?
+**Resposta** : Para conseguir acessar o chat, siga os 10 passos abaixo ou assita o vídeo:    **Link sobre como acessar o chat**: https://www.youtube.com/watch?v=maMpKleFEws    Passo 1: Acesse o sistema Contract, no canto inferior direito do sistema, clique no ícone de chat.    Passo 2: Para iniciar um atendimento, clique na opção "Iniciar atendimento".    Passo 3: Preencha os dados solicitados e depois clique em "Enviar".    Passo 4: Confirme os dados e clique em "Sim, estão certos".    Passo 5: Para abrir um novo protocolo, clique em "Não". Se você já tem um protocolo aberto, clique em "Sim, já abri" e informe o número.    Passo 6: Selecione o assunto do atendimento e depois clique em "Confirmar".    Passo 7: Para Mobilização de Trabalhadores, escolha o tipo de serviço e depois clique em "Confirmar".    Passo 8: Você receberá um link com o passo a passo do procedimento desejado.    Passo 9: Se o link não ajudar, clique em "NÃO". Se sua dúvida não se encaixa nas opções anteriores, escolha outras opções.    Passo 10: Após seguir essas orientações, aguarde a interação do atendente.    Observações:       - Para descobrir como acessar o chat assista o tutorial: https://www.youtube.com/watch?v=maMpKleFEws       - Para Homologação, Monitoramento Mensal ou BEXUP, você será direcionado à fila após a escolha.
 
-   3. Mobilização de Trabalhadores:
-     - A mobilização é um processo de análise que comprova a regularidade do trabalhador conforme a saúde e segurança ocupacional. A intenção é assegurar que os trabalhadores terceirizados só entrem na empresa e realizem o serviço quando estiverem com todas as documentações conformes, reduzindo os riscos de acidente de trabalho. Após a aprovação de todos os documentos, o colaborador é liberado para realizar a integração na contratante.
-      - Sistema: Ocorre unicamente no sistema NewContract
-      - Link: https://newcontract.contractweb.com.br
+**Pergunta** : Como localizar as competências mensais?
+**Resposta** : Para localizar as competências, siga estas orientações:  Passo 1: Clique na aba "Carregamento de Documentos" e em seguida, clique em "Carregar Mensal".  Passo 2: No campo de busca, digite o número do contrato, depois clique em "Pesquisar" e o sistema exibirá todas as competências relacionadas ao contrato.  Passo 3: Para filtrar por competência, utilize o filtro "Competência" na tela de carregamento, depois selecione o mês desejado para filtrar as competências.  Observações:    - O número do contrato pode conter números, letras ou caracteres especiais, como por exemplo: "123/teste".   - Certifique-se de inserir o número de contrato corretamente para que o sistema possa localizar as competências.   - Caso contrário, o sistema não será capaz de encontrar as competências.
+
+**Pergunta** : Este é o meu primeiro acesso: como definir senha, atualizar dados e termos de uso?
+**Resposta** : Olá, Fornecedor! Seja bem-vindo(a) a Gestão de Riscos com Terceiros da Bernhoeft.      - Para realizar o seu primeiro acesso no sistema, siga as instruções a seguir:       - Ao ser cadastrado no portal Bernhoeft, você receberá um e-mail contendo o link de redefinição de senha e o link do sistema, conforme destacado abaixo:       - Para acessar o sistema, primeiro você deve clicar no link para definir a sua senha, conforme orientações a seguir:       - Ao clicar no link, você será direcionado para a seguinte tela:       - Ao clicar em redefinir senha, o sistema exibirá a seguinte mensagem:       - Com a senha definida, acesse o link do sistema enviado por e-mail e insira as suas credenciais:       - No seu primeiro acesso, será necessário preencher os campos abaixo:       - Pronto! Ao seguir essas orientações, você concluiu o primeiro acesso ao sistema NewContract. Os próximos passos te ensinarão a cadastrar colaboradores e enviar a documentação.
+
+**Pergunta** : Não recebi o e-mail com a recuperação de senha, como proceguir?
+**Resposta** : Para receber a recuperação de senha, siga as orientações descritas neste passo a passo:     - Caso você tenha clicado em "Esqueci a senha" mas não tenha localizado o e-mail de recuperação ou não tenha recebido a senha para fazer o seu primeiro acesso, siga as orientações abaixo:      - Sempre utilize o navegador Google Chrome para atividades relacionadas ao NewContract.      - Antes de clicar em "Esqueci a senha", realize a limpeza de cookies do navegador, pois pode haver um deles que pode estar corrompido, impedindo a solicitação de recuperação de senha.      - Caso seja solicitada a senha (esqueci a senha) por meio de uma máquina corporativa e não chegar o e-mail de recuperação, realize a ação utilizando o celular pessoal e/ou computador pessoal.      - Verifique se o link está chegando na caixa de spam ou na caixa de lixeira.      - Para aqueles que utilizam aplicativos de e-mail (Aplicativo do Outlook, por exemplo), se a caixa de e-mail estiver quase na capacidade máxima, o tempo de sincronização que o aplicativo vai levar para atualizar pode ser demorado, fazendo com que, no momento em que o e-mail de recuperação de senha chegar, o link pode estar expirado por conta do tempo-limite que ele possui (30 minutos). Diante disso, recomendamos que utilize o e-mail no navegador (Google Chrome), pois ao contrário do aplicativo, pelo navegador o e-mail não passa por essa sincronização.      - Verifique se a rede corporativa possui alguma restrição com relação ao nosso endereço que envia o link para redefinição de senha (noreply@bernhoeft-auth-prod.firebaseapp.com). Além disso, verifique se solicitando a recuperação de senha por meio de uma rede de internet pessoal (internet residencial ou 4G, por exemplo) o link chega.      - Caso use VPN nas atividades, verifique se possui alguma restrição com o endereço mencionado no ponto anterior.      - Verifique com o time de T.I da sua empresa se os sites listados a seguir estão habilitados como confiáveis:      - Lista de sites para liberar para funcionamento do NewContract:          - newcontract.contractweb.com.br          - contractweb.com.br          - privacytools.com.br          - privacytools.io          - bam-cell.nr-data.net          - nr-data.net          - fast.conpass.io          - conpass.io          - google.com          - goo.gl          - ssl.google-analytics.com          - rawgit.com          - cdn.privacytools.com.br          - chat.movidesk.com          - movidesk.com
+
+**Pergunta** : Esqueci a senha, como redefinir a senha de acesso?
+**Resposta** : Para alterar ou obter uma nova senha, siga o passo a passo abaixo ou assista o vídeo tutorial no final da página:       1. Clique em "Redefinir minha senha".       2. Digite o e-mail cadastrado e clique em "Redefinir".       3. Após clicar em "Redefinir", a seguinte mensagem será exibida:       4. Verifique no seu e-mail (caixa de entrada, spam, lixo eletrônico) o link enviado para redefinição. Clique no ícone abaixo:       5. Ao acessar o link, crie uma nova senha preenchendo os campos "Nova senha" e "Confirme a nova senha" atendendo os critérios de definição. Posteriormente, clique em "Redefinir senha".       6. Após criar a nova senha, informe os dados de acesso (Login, Senha), clique em "Não sou um robô" e depois "Entrar".       Observação: Caso não tenha recebido a recuperação de senha por e-mail (verifique também no SPAM e lixo eletrônico). Caso não localize o e-mail, verifique com o setor de TI da sua empresa se existe algum bloqueio no servidor para receber e-mails de "noreply@newcontract.contractweb.com.br".
+
+**Pergunta** : Como Identificando os Tipos de Serviço?
+**Resposta** : A Bernhoeft possui vários tipos de serviço, que são:     1. Homologação de Fornecedores:      - Nesse serviço, realizamos uma análise nos documentos da possível contratada, com foco na saúde financeira. Na Homologação, as empresas ainda estão no processo de avaliação da oferta de seus serviços. A intenção é encontrar indícios de comprometimento financeiro, histórico de passivos na justiça, regularidade perante as dívidas e outros fatores que podem acarretar na insolvência do fornecedor durante o contrato com os nossos clientes.       - Sistema: Contract V2       - Link: https://v2.contractweb.com.br/documents/cliente/main_inicio.asp     2. Monitoramento Mensal:      - O monitoramento mensal se trata de um acompanhamento nas documentações trabalhistas e previdenciárias das empresas terceirizadas. Mensalmente analisamos documentos como GFIP, eSocial, Cartão de Ponto, Comprovante de Pagamento de Salários e outros.       - Sistema: Definido pelo contratante, pois pode ocorrer em qualquer sistema (Contract V1, Contract V2 e NewContract).     3. Mobilização de Trabalhadores:      - A mobilização é um processo de análise que comprova a regularidade do trabalhador conforme a saúde e segurança ocupacional. A intenção é assegurar que os trabalhadores terceirizados só entrem na empresa e realizem o serviço quando estiverem com todas as documentações conformes, reduzindo os riscos de acidente de trabalho. Após a aprovação de todos os documentos, o colaborador é liberado para realizar a integração na contratante.       - Sistema: Ocorre unicamente no sistema NewContract       - Link: https://newcontract.contractweb.com.br
+
+
