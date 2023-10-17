@@ -1,0 +1,7 @@
+**Categoria: Manuais e Cartilhas - V3**
+
+1. **Pergunta 1:** Como localizar Cartilhas, manuais, tutoriais e modelos de documentos no sistema NewContract?
+- **Resposta 1:** Ao acessar o NewContract, siga as instruções:
+        - Na barra de menu, clique em Suporte > Cartilha.
+        - Na opção Manuais e Cartilhas, você pode pesquisar o material que deseja:
+        - Desça a barra de rolagem para visualizar os Tutoriais.
