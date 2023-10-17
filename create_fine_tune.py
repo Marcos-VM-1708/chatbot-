@@ -1,5 +1,6 @@
 import json
 import openai
+import pandas as pd
 from utils import load_file
 from utils import Clean_data
 from utils import create_model
@@ -54,7 +55,8 @@ class train_gpt:
             self.datav2.append((Clean_data(pergunta_atual), Clean_data(resposta_atual)))
 
         self.datav2 = [{"prompt": item[0], "completion": item[1]} for item in self.datav2]
-
+        self.save = pd.DataFrame(self.datav2)
+        self.save.to_csv("dados.csv")
         print(">>> split_data...")
 
     # -------------------------------------------------------------
@@ -147,7 +149,7 @@ class train_gpt:
 
 
 
-model = train_gpt(path_data = path, model_name = "gpt-3.5-turbo", load = True, api_key = "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")
+model = train_gpt(path_data = path, model_name = "gpt-3.5-turbo", load = False, api_key = "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")
 model.join_data()
 model.split_data()
 model.transformer_data()

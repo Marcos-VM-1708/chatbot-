@@ -38,7 +38,6 @@ def Clean_data(texto):
 
 # ------------------------------------
 
-
 def load_file(file_path):
     file = openai.File.create(
         file=open(file_path, "rb"),
