@@ -5,30 +5,27 @@ import os
 import openai
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-def gpt_request(prompt):
-    response = openai.ChatCompletion.create(
-      model="gpt-3.5-turbo",
-      messages=[
-        {
-          "role": "system",
-          "content": "você é um assistente literário, seu objetivo é reformular sentenças de maneira dez maneiras diferentes, de maneira conivente. "
-        },
-        {
-          "role": "user",
-          "content": prompt
-        },
-        {
-          "role": "assistant",
-          "content": "Qual seria o navegador mais adequado para o meu uso?\n\nQual navegador é mais recomendado para mim?\n\nQual navegador atenderia melhor às minhas necessidades?\n\nQual é a melhor opção de navegador para mim?\n\nQual navegador é mais indicado para o meu caso?\n\nQual navegador me proporcionaria a melhor experiência?\n\nQual seria a escolha mais acertada de navegador no meu caso?\n\nQual navegador se encaixaria melhor com as minhas preferências?\n\nQual é o navegador mais apropriado para o que eu preciso?\n\nQual navegador seria mais vantajoso para mim?"
-        }
-      ],
-      temperature=1,
-      max_tokens=256,
-      top_p=1,
-      frequency_penalty=0,
-      presence_penalty=0
-    )
-    return response
+
+
+def data_argumentation(sentence, N, lista):
+    for _ in range(N):
+        response = openai.ChatCompletion.create(
+            model = "gpt-3.5-turbo",
+            messages = [
+                {
+                    "role": "user",
+                    "content": f"Reformule a seguinte sentença : '{sentence}'\n"
+                }
+            ],
+            temperature = 1,
+            max_tokens = 60,
+            top_p = 1,
+            frequency_penalty = 0,
+            presence_penalty = 0
+        )
+        reformulated_sentence = response['choices'][0]['message']['content']
+        lista.append(reformulated_sentence)
+    return lista
 
 # ------------------------------------
 
