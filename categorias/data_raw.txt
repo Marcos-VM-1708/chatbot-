@@ -24,7 +24,7 @@
 - movidesk.com
 4. Em caso negativo, solicite a liberação desses sites, pois são usados dentro da aplicação do NewContract.
 
-**Pergunta:** Como acessar o chat no sistema? Como acessar o chat? Como acessar o chat do newContract?
+**Pergunta:** Como acessar o chat no sistema?
 **Resposta:** Para conseguir acessar o chat, siga os 10 passos abaixo ou assita o vídeo:
 **Link sobre como acessar o chat**: https://www.youtube.com/watch?v=maMpKleFEws
 Passo 1: Acesse o sistema Contract, no canto inferior direito do sistema, clique no ícone de chat.

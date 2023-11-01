@@ -1,5 +1,6 @@
 import json
 import openai
+import time
 import pandas as pd
 from utils import load_file
 from utils import Clean_data
@@ -10,12 +11,13 @@ from collections import defaultdict
 # ------------------------------------------------
 
 path : str = "categorias\data_raw.txt"
+
 class train_gpt:
     def __init__(self, path_data, load, model_name, api_key):
 
         openai.api_key = api_key
         self.path_data = path_data
-        self.file_path = "data_model.jsonl"
+        self.file_path = "data_modelv2.jsonl"
         self.validate = {} # date Validation
         self.datav2 = []   # default fine tune gpt2
         self.datav3 = []   # default fine tune gpt3
@@ -53,24 +55,36 @@ class train_gpt:
 
         if pergunta_atual is not None:
             self.datav2.append((Clean_data(pergunta_atual), Clean_data(resposta_atual)))
+        print(">>> split_data...")
+
         # --------------------------------------------------------------------------------------------
         # data argumentation:
         local_data = []
         for item in self.datav2:
-            data_argumentation(sentence = item[0], N = 1, lista = local_data)
+
+            get = data_argumentation(sentence = item[0], N = 7, lista = local_data)
+            print(get)
             for new_sentence in local_data:
                 temp = (new_sentence, item[1])
+                print(temp)
                 self.Synthetic_data.append(temp)
-        print(local_data)
-        while True:
-            input("enter for continue")
-            break
+            local_data = []
+            time.sleep(5)
 
+        with open("data_argumentation.txt", "w") as arquivo:
+            for item in local_data:
+                arquivo.write(item + "\n")
+
+        print(">>> Data_argumentation...")
+        # while True:
+        #     input("enter for continue")
+        #     break
+        print(">>> Data_argumentation...")
         # --------------------------------------------------------------------------------------------
         self.datav2 = [{"prompt": item[0], "completion": item[1]} for item in self.datav2]
         # self.save = pd.DataFrame(self.datav2)
-        # self.save.to_csv("dados.csv")
-        print(">>> split_data...")
+        # self.save.to_csv("Data_raw.csv")
+
 
     # -------------------------------------------------------------
 
@@ -165,7 +179,7 @@ class train_gpt:
 model = train_gpt(path_data = path, model_name = "gpt-3.5-turbo", load = False, api_key = "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")
 model.join_data()
 model.split_data()
-# model.transformer_data()
-# # model.resize()
-# model.validate_data()
-# model.training(file_id = None, N_epocas = 7)
+model.transformer_data()
+# model.resize()
+model.validate_data()
+model.training(file_id = None, N_epocas = 10)

@@ -1,0 +1,840 @@
+**Pergunta:** Qual navegador devo utilizar?
+**Resposta:** O nosso sistema deve ser acessado utilizando apenas o navegador Google Chrome. Algumas dicas para um melhor desempenho: Use uma aba na versão "anônima" ou "nova janela sem registro."
+
+**Pergunta:**  Solução para Lentidão ou Indisponibilidade?
+**Resposta:** Caso enfrente lentidão ou indisponibilidade, siga as etapas a seguir:
+1. Certifique-se de que está utilizando o navegador Google Chrome, de preferência, em uma aba anônima.
+2. Limpe a memória cache do seu navegador.
+3. Verifique com o setor de tecnologia da sua empresa se os seguintes sites estão liberados para acesso:
+- noreplay@newcontract.contractweb.com.br
+- newcontract.contractweb.com.br
+- contractweb.com.br
+- privacytools.com.br
+- privacytools.io
+- bam-cell.nr-data.net
+- nr-data.net
+- fast.conpass.io
+- conpass.io
+- google.com
+- goo.gl
+- ssl.google-analytics.com
+- rawgit.com
+- cdn.privacytools.com.br
+- chat.movidesk.com
+- movidesk.com
+4. Em caso negativo, solicite a liberação desses sites, pois são usados dentro da aplicação do NewContract.
+
+**Pergunta:** Como acessar o chat no sistema?
+**Resposta:** Para conseguir acessar o chat, siga os 10 passos abaixo ou assita o vídeo:
+**Link sobre como acessar o chat**: https://www.youtube.com/watch?v=maMpKleFEws
+Passo 1: Acesse o sistema Contract, no canto inferior direito do sistema, clique no ícone de chat.
+Passo 2: Para iniciar um atendimento, clique na opção "Iniciar atendimento".
+Passo 3: Preencha os dados solicitados e depois clique em "Enviar".
+Passo 4: Confirme os dados e clique em "Sim, estão certos".
+Passo 5: Para abrir um novo protocolo, clique em "Não". Se você já tem um protocolo aberto, clique em "Sim, já abri" e informe o número.
+Passo 6: Selecione o assunto do atendimento e depois clique em "Confirmar".
+Passo 7: Para Mobilização de Trabalhadores, escolha o tipo de serviço e depois clique em "Confirmar".
+Passo 8: Você receberá um link com o passo a passo do procedimento desejado.
+Passo 9: Se o link não ajudar, clique em "NÃO". Se sua dúvida não se encaixa nas opções anteriores, escolha outras opções.
+Passo 10: Após seguir essas orientações, aguarde a interação do atendente.
+Observações:
+- Para descobrir como acessar o chat assista o tutorial: https://www.youtube.com/watch?v=maMpKleFEws
+- Para Homologação, Monitoramento Mensal ou BEXUP, você será direcionado à fila após a escolha.
+
+**Pergunta:** Como localizar as competências mensais?
+**Resposta:** Para localizar as competências, siga estas orientações:
+Passo 1: Clique na aba "Carregamento de Documentos" e em seguida, clique em "Carregar Mensal".
+Passo 2: No campo de busca, digite o número do contrato, depois clique em "Pesquisar" e o sistema exibirá todas as competências relacionadas ao contrato.
+Passo 3: Para filtrar por competência, utilize o filtro "Competência" na tela de carregamento, depois selecione o mês desejado para filtrar as competências.
+Observações:
+- O número do contrato pode conter números, letras ou caracteres especiais, como por exemplo: "123/teste".
+- Certifique-se de inserir o número de contrato corretamente para que o sistema possa localizar as competências.
+- Caso contrário, o sistema não será capaz de encontrar as competências.
+
+**Pergunta:** Como limpar a memória cache (Cookies) do navegador?
+**Resposta:** O sistema pode apresentar inconsistências ou ficar lento se você não estiver utilizando o navegador Google Chrome, ou estiver com a memória cache cheia. Para limpar os cookies da página (Memória cache) faça o procedimento a seguir:
+- Clique no ícone do cadeado ao lado esquerdo do link do portal (Barra de endereço).
+- Ao clicar no cadeado, clique na opção "cookies".
+- Ao clicar em "cookies", irá mostrar alguns links na tela, clique em "remover". Ao excluir todos os links, clique em "concluído".
+- Feito esse procedimento, atualize a página clicando em "F5" no seu teclado, ou clicando em "Recarregar esta página" no navegador.
+- Faça o login novamente e siga com o procedimento que estava tentando realizar.
+
+**Pergunta:** Este é o meu primeiro acesso: como definir senha, atualizar dados e termos de uso?
+**Resposta:** Olá, Fornecedor! Seja bem-vindo(a) a Gestão de Riscos com Terceiros da Bernhoeft.
+- Para realizar o seu primeiro acesso no sistema, siga as instruções a seguir:
+- Ao ser cadastrado no portal Bernhoeft, você receberá um e-mail contendo o link de redefinição de senha e o link do sistema, conforme destacado abaixo:
+- Para acessar o sistema, primeiro você deve clicar no link para definir a sua senha, conforme orientações a seguir:
+- Ao clicar no link, você será direcionado para a seguinte tela:
+- Ao clicar em redefinir senha, o sistema exibirá a seguinte mensagem:
+- Com a senha definida, acesse o link do sistema enviado por e-mail e insira as suas credenciais:
+- No seu primeiro acesso, será necessário preencher os campos abaixo:
+- Pronto! Ao seguir essas orientações, você concluiu o primeiro acesso ao sistema NewContract. Os próximos passos te ensinarão a cadastrar colaboradores e enviar a documentação.
+
+**Pergunta:**Não recebi o e-mail com a recuperação de senha, como proceguir?
+**Resposta:** Para receber a recuperação de senha, siga as orientações descritas neste passo a passo:
+- Caso você tenha clicado em "Esqueci a senha" mas não tenha localizado o e-mail de recuperação ou não tenha recebido a senha para fazer o seu primeiro acesso, siga as orientações abaixo:
+- Sempre utilize o navegador Google Chrome para atividades relacionadas ao NewContract.
+- Antes de clicar em "Esqueci a senha", realize a limpeza de cookies do navegador, pois pode haver um deles que pode estar corrompido, impedindo a solicitação de recuperação de senha.
+- Caso seja solicitada a senha (esqueci a senha) por meio de uma máquina corporativa e não chegar o e-mail de recuperação, realize a ação utilizando o celular pessoal e/ou computador pessoal.
+- Verifique se o link está chegando na caixa de spam ou na caixa de lixeira.
+- Para aqueles que utilizam aplicativos de e-mail (Aplicativo do Outlook, por exemplo), se a caixa de e-mail estiver quase na capacidade máxima, o tempo de sincronização que o aplicativo vai levar para atualizar pode ser demorado, fazendo com que, no momento em que o e-mail de recuperação de senha chegar, o link pode estar expirado por conta do tempo-limite que ele possui (30 minutos). Diante disso, recomendamos que utilize o e-mail no navegador (Google Chrome), pois ao contrário do aplicativo, pelo navegador o e-mail não passa por essa sincronização.
+- Verifique se a rede corporativa possui alguma restrição com relação ao nosso endereço que envia o link para redefinição de senha (noreply@bernhoeft-auth-prod.firebaseapp.com). Além disso, verifique se solicitando a recuperação de senha por meio de uma rede de internet pessoal (internet residencial ou 4G, por exemplo) o link chega.
+- Caso use VPN nas atividades, verifique se possui alguma restrição com o endereço mencionado no ponto anterior.
+- Verifique com o time de T.I da sua empresa se os sites listados a seguir estão habilitados como confiáveis:
+- Lista de sites para liberar para funcionamento do NewContract:
+- newcontract.contractweb.com.br
+- contractweb.com.br
+- privacytools.com.br
+- privacytools.io
+- bam-cell.nr-data.net
+- nr-data.net
+- fast.conpass.io
+- conpass.io
+- google.com
+- goo.gl
+- ssl.google-analytics.com
+- rawgit.com
+- cdn.privacytools.com.br
+- chat.movidesk.com
+- movidesk.com
+
+**Pergunta:** Esqueci a senha, como redefinir a senha de acesso?
+**Resposta:** Para alterar ou obter uma nova senha, siga o passo a passo abaixo ou assista o vídeo tutorial no final da página:
+1. Clique em "Redefinir minha senha".
+2. Digite o e-mail cadastrado e clique em "Redefinir".
+3. Após clicar em "Redefinir", a seguinte mensagem será exibida:
+4. Verifique no seu e-mail (caixa de entrada, spam, lixo eletrônico) o link enviado para redefinição. Clique no ícone abaixo:
+5. Ao acessar o link, crie uma nova senha preenchendo os campos "Nova senha" e "Confirme a nova senha" atendendo os critérios de definição. Posteriormente, clique em "Redefinir senha".
+6. Após criar a nova senha, informe os dados de acesso (Login, Senha), clique em "Não sou um robô" e depois "Entrar".
+Observação: Caso não tenha recebido a recuperação de senha por e-mail (verifique também no SPAM e lixo eletrônico). Caso não localize o e-mail, verifique com o setor de TI da sua empresa se existe algum bloqueio no servidor para receber e-mails de "noreply@newcontract.contractweb.com.br".
+
+**Pergunta:** Como Identificando os Tipos de Serviço?
+**Resposta:** A Bernhoeft possui vários tipos de serviço, que são:
+1. Homologação de Fornecedores:
+- Nesse serviço, realizamos uma análise nos documentos da possível contratada, com foco na saúde financeira. Na Homologação, as empresas ainda estão no processo de avaliação da oferta de seus serviços. A intenção é encontrar indícios de comprometimento financeiro, histórico de passivos na justiça, regularidade perante as dívidas e outros fatores que podem acarretar na insolvência do fornecedor durante o contrato com os nossos clientes.
+- Sistema: Contract V2
+- Link: https://v2.contractweb.com.br/documents/cliente/main_inicio.asp
+2. Monitoramento Mensal:
+- O monitoramento mensal se trata de um acompanhamento nas documentações trabalhistas e previdenciárias das empresas terceirizadas. Mensalmente analisamos documentos como GFIP, eSocial, Cartão de Ponto, Comprovante de Pagamento de Salários e outros.
+- Sistema: Definido pelo contratante, pois pode ocorrer em qualquer sistema (Contract V1, Contract V2 e NewContract).
+3. Mobilização de Trabalhadores:
+- A mobilização é um processo de análise que comprova a regularidade do trabalhador conforme a saúde e segurança ocupacional. A intenção é assegurar que os trabalhadores terceirizados só entrem na empresa e realizem o serviço quando estiverem com todas as documentações conformes, reduzindo os riscos de acidente de trabalho. Após a aprovação de todos os documentos, o colaborador é liberado para realizar a integração na contratante.
+- Sistema: Ocorre unicamente no sistema NewContract
+- Link: https://newcontract.contractweb.com.br
+
+**Pergunta:** Como informar férias do colaborador?
+**Resposta:** Veja a seguir as informações:
+- Na etapa 4 do carregamento mensal, marque a flag de férias do colaborador na competência em que se iniciou o período de gozo.
+- Após a marcação, não esqueça de clicar no botão de salvar no final da página.
+- Caso você já tenha passado da etapa 4, na etapa 8 há a opção de [ação]. Clicando nesse botão, o sistema irá retornar na etapa 4 e você poderá informar as férias do colaborador.
+
+**Pergunta:** Como saber a classificação na hora de cadastrar o colaborador no carregamento mensal?
+**Resposta:** Olá, Fornecedor! Para identificar qual a classificação correta na hora de cadastrar o colaborador. Segue as informações sobre cada classificação:
+- 🟡 Empregado: É toda pessoa física que prestar serviços de natureza não eventual a um empregador, sob dependência e mediante pagamento de salário, constituindo uma relação de emprego, nos termos do art. 3º da CLT. Se o seu colaborador possui a carteira de trabalho devidamente assinada ele precisa ser cadastrado com a classificação de empregado.
+- 🟢 Empregado/Aprendiz: É o jovem que estuda e trabalha, recebendo também capacitação específica na área em que está empregado obedecendo a Lei nº 10097/2000 (Lei do Aprendiz), o contrato de aprendizagem deve ser registrado na CTPS com direitos trabalhistas e previdenciários garantidos.
+- 🔵 Sócio/PJ: É conhecida por figura jurídica, possui um cadastro próprio perante a Receita Federal. Esse cadastro é o Cadastro Nacional de Pessoa Jurídica, da sigla CNPJ. Assim, é necessário apresentar o Contrato social, Requerimento do empresário ou o CCMEI, para os colaboradores que forem classificados Sócio/PJ.
+- 🟣 Autônomo: Não possui vínculo empregatício com nenhuma empresa. Dessa forma, ele possui total autonomia financeira e profissional, não assumindo o papel de um funcionário efetivo. É necessário a apresentação do contrato de prestação de serviço (Contrato de Autônomo). Conforme Lei nº 13.467/2017, é contratado como prestador de serviços.
+- 🟤 Estagiário: É o período no qual os estudantes podem colocar em prática os conhecimentos adquiridos em sala de aula, é uma complementação do aprendizado, e deve ser apresentado o contrato de estágio conforme a LEI Nº 11.788/2008.
+- 🔴 Estrangeiro: São os trabalhadores que vem de fora do país e que pretendem permanecer no país por um determinado tempo ou definitivamente, regido pela Lei nº 6.815/80 (Estatuto do Estrangeiro). Nessa classificação, deve apresentar o registro nacional do estrangeiro, autorização para trabalho emitido pelo MTE e passaporte.
+- 🟡 Temporário: Aquele prestado por pessoa física contratada por uma empresa de trabalho temporário que a coloca à disposição de uma empresa tomadora de serviços, para atender à necessidade de substituição transitória de pessoal permanente ou à demanda complementar de serviços. Baseando-se na Lei 13.429/2017, o trabalhador temporário precisa conter o contrato de trabalho na CTPS, com o período de início e fim do contrato.
+
+**Pergunta:** Como saber a classificação na hora de mobilizar o colaborador?
+**Resposta:** Para identificar qual a classificação correta na hora de mobilizar o colaborador segue as informações sobre cada classificação:
+- 🟡 Empregado: É toda pessoa física que prestar serviços de natureza não eventual a um empregador, sob dependência e mediante pagamento de salário, constituindo uma relação de emprego, nos termos do art. 3º da CLT. Se o seu colaborador possui a carteira de trabalho devidamente assinada ele precisa ser cadastrado com a classificação de empregado.
+- 🟢 Empregado/Aprendiz: É o jovem que estuda e trabalha, recebendo também capacitação específica na área em que está empregado obedecendo a Lei nº 10097/2000 (Lei do Aprendiz), o contrato de aprendizagem deve ser registrado na CTPS com direitos trabalhistas e previdenciários garantidos.
+- 🔵 Sócio/PJ: É conhecida por figura jurídica, possui um cadastro próprio perante a Receita Federal. Esse cadastro é o Cadastro Nacional de Pessoa Jurídica, da sigla CNPJ. Assim, é necessário apresentar o Contrato social, Requerimento do empresário ou o CCMEI, para os colaboradores que forem classificados Sócio/PJ.
+- 🟣 Autônomo: Não possui vínculo empregatício com nenhuma empresa. Dessa forma, ele possui total autonomia financeira e profissional, não assumindo o papel de um funcionário efetivo. É necessário a apresentação do contrato de prestação de serviço (Contrato de Autônomo). Conforme Lei nº 13.467/2017, é contratado como prestador de serviços.
+- 🟤 Estagiário: É o período no qual os estudantes podem colocar em prática os conhecimentos adquiridos em sala de aula, é uma complementação do aprendizado, e deve ser apresentado o contrato de estágio conforme a LEI Nº 11.788/2008.
+- 🔴 Estrangeiro: São os trabalhadores que vem de fora do país e que pretendem permanecer no país por um determinado tempo ou definitivamente, regido pela Lei nº 6.815/80 (Estatuto do Estrangeiro). Nessa classificação, deve apresentar o registro nacional do estrangeiro, autorização para trabalho emitido pelo MTE e passaporte.
+- 🟡 Temporário: Aquele prestado por pessoa física contratada por uma empresa de trabalho temporário que a coloca à disposição de uma empresa tomadora de serviços, para atender à necessidade de substituição transitória de pessoal permanente ou à demanda complementar de serviços. Baseando-se na Lei 13.429/2017, o trabalhador temporário precisa conter o contrato de trabalho na CTPS, com o período de início e fim do contrato.
+- 🟣 Cooperado: O trabalhador que aderir à Cooperativa e, por estatuto da mesma, adquirir o status de cooperado, não é caracterizado como empregado, conforme CLT, art. 442, assim o colaborador que é membro de uma cooperativa é classificado como Cooperado.
+- 🟡 Intermitente: É o funcionário contratado para prestar serviços de forma esporádica, remunerando-o com salário e todos os direitos trabalhistas proporcionalmente a esse período e deve constar o contrato na CTPS do colaborador. Promulgado pela Lei nº 13.467 de 13 de julho de 2017, o inciso 3 do artigo 443.
+
+**Pergunta:** Alterar dados dos Colaboradores na Competência Mensal?
+**Resposta:** Para alterar as informações dos colaboradores que já estão na competência, siga as orientações abaixo:
+– Acesse a competência mensal em questão.
+– Na etapa 8, clique em "Modificar/Adicionar dados dos colaboradores da competência".
+– Na etapa 4, para alterar informações dos colaboradores já cadastrados, basta localizar o colaborador, alterar no campo desejado e clicar em “salvar” > “próximo”.
+– Assista o tutorial para saber mais: https://www.youtube.com/watch?v=fz3yIbjPlbc
+
+**Pergunta:** Como atualizar colaboradores na etapa 4?
+**Resposta:** Para atualizar os colaboradores na estapa 4, siga as seguintes instruções:
+– Na etapa 4, clique na opção "Clique aqui".
+– Ao baixar a planilha, faça as atualizações necessárias.
+– Salve a planilha e em seguida anexe no portal na opção “Escolher arquivo”.
+– Após validar os dados na tela clique em “salvar”, em seguida clique em “próximo”.
+
+**Pergunta:** Como anexar uma declaração de Não Prestação de Serviço?
+**Resposta:** Para anexar a declaração, siga o passo a passo abaixo:
+1. Na etapa 1 - Confirmar Prestação de Serviço, cliquei em Não.
+2. Baixe o modelo de declaração clicando na opção de Clique Aqui.
+3. Preencha o modelo (A declaração deve ser assinada pelo responsável legal da empresa e deve ser salva em PDF.).
+4. Para anexar, clique em Carregar Arquivo e selecione a documentação.
+5. Clique em Próximo.
+6. Após incluir a declaração e clicar em próximo, o sistema irá para te direcionar para a etapa 05 onde será preciso clicar na opção Finalizar.
+- Após concluir o processo de impute da declaração, seguiremos o seguinte fluxo para validação:
+1. A declaração será analisada pela Bernhoeft de acordo com prazo de análise estabelecido pelo cliente;
+2. Estando a declaração conforme, o documento será encaminhado para que o cliente possa validar se houve ou não a prestação de serviços na competência;
+3. Após a validação do cliente, a informação de NPS (Não Prestação de Serviço) na competência será lançada no sistema e a solicitação de documentos ajustada.
+4. Assista o tutorial para saber mais: https://www.youtube.com/watch?v=08tVDMoGJ9M
+- Importante: O lançamento da Não prestação de serviços no portal após o envio do relatório de pendências dependerá do tempo de resposta do cliente.
+
+**Pergunta:** Como adicionar colaboradores em uma competência que já foi atualizada?
+**Resposta:** Para adicionar colaboradores em uma competência que já foi atualizada, siga as orientações abaixo:
+1. Acesse a competência que deseja adicionar o colaborador;
+2. Ao chegar na etapa 8, clique em “Modificar/Adicionar dados dos colaboradores da competência”;
+3. Na etapa 4, clique em “Adicionar Colaboradores”;
+4. Na etapa 2, você deverá fazer a inclusão dos colaboradores, manualmente ou por planilha. Após a inclusão deve clicar em “próximo”, até chegar a etapa 7 para anexar os documentos.
+5. Na etapa 8 deverá finalizar todo o procedimento.
+6. Assista o tutorial para saber mais: https://www.youtube.com/watch?v=26oDgzhz_sk
+
+**Pergunta:** Como retificar a planilha?
+**Resposta:** Se você copiou e colou as informações de outra planilha, alterou a fonte (tamanho ou estilo), digitou informações na célula onde possui um campo suspenso ou pulou linhas entre os colaboradores, você precisa retificar a planilha seguindo as seguintes orientações:
+1. Copie os dados da planilha preenchida e cole no bloco de notas.
+2. Baixe uma nova planilha.
+3. Copie os dados do bloco de notas e cole na nova planilha.
+4. Salve a planilha sem alterar o formato do arquivo(xls) e faça o upload na competência.
+
+**Pergunta:**O que eu preciso saber sobre a saída de um colaborador?
+**Resposta:** A saída de colaboradores deve ser informada na competência do afastamento para que o sistema não faça a cobrança dos documentos mensalmente. O procedimento ocorre na etapa 3, conforme as orientações abaixo:
+- Acesse a competência que o colaborador foi desligado, afastado ou não prestou serviço.
+- Depois de passar pelas etapas iniciais 1 e 2, siga para a etapa 3.
+- Ao acessar a etapa 3, você pode informar a saída de colaboradores de duas formas:
+- Manualmente
+- Na etapa 3, clique no botão com o ícone.
+- Preencha os campos e clique em.
+- Clique em para seguir com a atualização da competência.
+- Planilha
+- Na etapa 3, baixe o modelo padrão.
+- Preencha as campos Data de Saída e Motivo de Saída.
+- Clique no ícone para adicionar a planilha.
+- Verifique os dados na tela e clique em.
+- Clique em para seguir com a atualização da competência.
+
+**Pergunta:** Como preencher a planilha de inclusão de colaboradores corretamente - MONITORAMENTO MENSAL?
+**Resposta:** Para que a planilha seja anexada, você precisa utilizar o modelo padrão disponível para download no sistema. Para o preenchimento correto da planilha, você precisa se atentar as orientações abaixo:
+
+- Observações Gerais:
+- Ao abrir a planilha, clique em "Habilitar Edição" no canto superior direito, para que as células fiquem habilitadas para o preenchimento.
+- Não é permitido copiar e colar os dados de outra planilha ou de outro local.
+- Não alterar a fonte (tamanho ou estilo).
+- Os dados dos colaboradores devem estar um abaixo do outro (não pode pular linhas).
+- As células que possuem campo suspenso, devem ser selecionadas e nunca digitadas.
+- Salve a planilha sem alterar o formato do arquivo.
+- Preenchimento dos Campos:
+Matricula: Siga o exemplo descrito na planilha. Caso os seus colaboradores não tenham o número de matrícula, crie um número fictício desde que seja único, ou seja, que não se repita para outro colaborador, ex. 001, 002. 003 e etc.
+CPF e o PIS: Verificar se possuem pontuação e são validos. Você pode validar o CPF e PIS acessando o link:  https://www.4devs.com.br/validador_cpf
+RG: Digite o RG. O Campo é obrigatório
+Passaporte: Deixar em branco se o colaborador for brasileiro
+Data de Nascimento: O Campo é obrigatório
+Sexo: Masculino/Feminino. O campo é obrigatório.
+Salário: Informe o salário do colaborador.
+Refeição Custeada: Escolha SIM ou NÃO. O campo é obrigatório.
+Tipo de Prestador: Escolha a opção FIXO ou ESPORÁDICO. O campo é obrigatório.
+Função: Informe a função que ele exerce na empresa
+Data de admissão: Data que consta na CTPS
+Data início de serviço: Informe a data de início da prestação de serviço.
+Data de término: Para a classificação Temporário, informe a data de término do contrato.
+Classificação: Verificar a que se enquadra ao colaborador de acordo com as opções que constam na planilha.
+Motivo da entrada: Verificar a que se enquadra de acordo com as opções que constam na planilha.
+Local de serviço: Escolher a opção que consta na planilha, caso não apareça a unidade que vai executar o trabalho, pode selecionar qualquer uma e incluir a correta no campo de observação.
+Exposição de Risco: Selecionar a opção que corresponde de acordo com a planilha (Não/Periculosidade/Insalubridade).
+Observação: Campo destinado a observações gerais. Não é obrigatório preencher.
+Estrangeiro: Selecionar SIM ou NÃO. O campo é obrigatório.
+E-mail do Gestor Imediato: Informe o e-mail do gestor. O campo não é obrigatório.
+- Atenção: Em caso de dúvidas, assista o tutorial: https://www.youtube.com/watch?v=wHy_uEV1hTA
+
+**Pergunta:** Alterar dados dos Colaboradores na MOBILIZAÇÃO?
+**Resposta:** Alterar dados dos Colaboradores na MOBILIZAÇÃO (Crítica de Funcionário):
+- Você sabe o que quer dizer esse termo e como alterar/atualizar as informações cadastrais do colaborador no sistema New Contract?
+- Se não sabe, vamos te ensinar agora.
+- Em algumas situações é necessário atualizar/alterar as informações fornecidas no momento do cadastro daquele colaborador e a essa ação nós atribuímos o nome de crítica de funcionário. A crítica funciona em duas etapas, a primeira realizada pela equipe da Bernhoeft, para isso você, fornecedor, precisa entrar em contato conosco para efetuarmos a habilitação. A segunda etapa é com você, que precisa confirmar no sistema que realizamos a alteração, conforme solicitado.
+- Vamos ao passo-a-passo:
+- Na primeira etapa, você deverá entrar em contato com a nossa equipe de atendimento através do número (11) 4118-6665 ou através do Chat, clicando no ícone da interrogação no canto inferior direito da tela do portal.
+Informe os dados que precisam ser alterados. Exemplo de alterações: nome, CPF, PIS, função, classificação, local de serviço, etc.
+Segunda etapa: Acesse a mobilização, clicando em carregamento de documentos > carregar mobilização > digite o contrato e filtre a data da competência. Ao fazer isso verá que o ícone de acessar carregamento estará vermelho, isso significa que a etapa de atualização está liberada.
+- Clicando em “Acessar carregamento”, você será direcionado para a etapa 4 e poderá atualizar o item solicitado, que estará tracejado em laranja, assim como no exemplo:
+- Realizando a confirmação da alteração a escrita precisa ser a mesma que será exibida no balão “Valor encontrado” incluindo letras maiúsculas e minúsculas, conforme mostramos:
+- Após alterar, clique no botão “Próximo” e pronto, sua alteração foi realizada.
+- Para conferir se de fato ocorreu a alteração, verifique em utilitários > consultar colaboradores em mobilização e digite os dados necessários.
+- Ah! Não esqueça de usar os filtros disponíveis.
+- Ressaltamos que não é possível alterar no sistema o item “Matrícula”, entretanto para mobilização esse item não gera contratempos em sua análise.
+- Se a alteração for na função do colaborador, os documentos atualizados devem ser inseridos antes, já constando a nova função do colaborador. São eles: ASO (quando houver mudança de função com mudança de riscos), Ordem de serviço e Ficha de EPI (caso os EPIs mudem da função antiga para a nova). Se forem necessários novos treinamentos nas NRs em decorrência dessa mudança de função, os certificados de treinamento também devem ser apresentados
+
+**Pergunta:** Como incluir colaboradores na etapa 2 (Segunda etapa)?
+**Resposta:** A inclusão de colaboradores ocorre na etapa 2. Assista o tutorial para aprender a como realizar esse procedimento: https://www.youtube.com/watch?v=V65ASXUoKS0
+
+**Pergunta:** Como informar a saída/transferência de um colaborador mesmo após a atualização da competência?
+**Resposta:** Para informar a saída do colaborador (Demissão, realocação em outro projeto/tomador, e outros) na competência atualizada, siga as orientações abaixo:
+1- Acesse a competência em questão e clique na etapa 8, em seguida clique em “Modificar/Adicionar dados dos colaboradores da competência”;
+2- você será direcionado para etapa 4, clique em “saída de colaboradores” para ser direcionado a etapa 3, ou clique diretamente já na etapa 3 (Informar trabalhadores desligados/transferidos);
+3- Ao acessar a etapa 3, clique em “SIM” para confirmar que houve a saída de colaboradores na competência.
+- Você terá duas formas para informar a saída do colaborador na competência:
+- Planilha de saída:
+1. Ao confirmar a saída do colaborador na etapa 3, baixe a planilha de saída clicando na opção “CLIQUE AQUI”;
+2. Acesse a planilha e informe a data de saída e motivo de saída apenas dos colaboradores que saíram na competência;
+3. Salve a planilha e em seguida anexe no portal na opção “Escolher arquivo”;
+4. Após validar os dados na tela clique em “salvar”, em seguida clique em “próximo”.
+Retirando o colaborador manualmente:
+1. Ao confirmar a saída do colaborador na etapa 3, clique na opção do , que ficará disponível ao lado direito da tela;
+2. Inicie o preenchimento dos dados do colaborador incluindo data e motivo de saída ( lembrando que a matrícula precisa está igual a cadastrada no sistema, podendo ser consultada na etapa 4 e a data precisa constar suas devidas barras no formato DD/MM/AAAA);
+3. Após validar os dados na tela e ter informado todos os colaboradores demitidos/transferidos clique em “salvar”, em seguida clique em “próximo”.
+4- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=iH84oXUyRMo
+
+**Pergunta:** Como preencher a planilha de inclusão de colaboradores corretamente - MOBILIZAÇÃO?
+**Resposta:** Para que a planilha seja anexada, você precisa utilizar o modelo padrão disponível para download no sistema. Para o preenchimento correto da planilha, você precisa se atentar as orientações abaixo: ​
+Observações Gerais:
+1- Ao abrir a planilha, clique em "Habilitar Edição" no canto superior direito, para que as células fiquem habilitadas para o preenchimento;
+2- Não é permitido copiar e colar os dados de outra planilha ou de outro local;
+3- Não alterar a fonte (tamanho ou estilo);
+4- Os dados dos colaboradores devem estar um abaixo do outro (não pode pular linhas);
+5- As células que possuem campo suspenso, devem ser selecionadas e nunca digitadas;
+6- Salve a planilha sem alterar o formato do arquivo.
+Preenchimento dos Campos:
+Matricula: Siga o exemplo descrito na planilha. Caso os seus colaboradores não tenham o número de matrícula, crie um número fictício desde que seja único, ou seja, que não se repita para outro colaborador, ex. 001, 002. 003 e etc.
+CPF:  Verificar se possuem pontuação e são validos. Você pode validar o CPF acessando o link:  https://www.4devs.com.br/validador_cpf
+PIS: Este campo não é obrigatório para a classificação sócio, estrangeiro e autônomo, mas caso seja solicitado pelo portal é possível gerar uma numeração de PIS para o preenchimento no link: https://www.4devs.com.br/gerador_de_pis_pasep
+Para as demais classificações, verificar se possuem pontuação e são validos. Você pode validar o PIS acessando o link:  https://www.4devs.com.br/validador_pis_pasep
+RG: Digite o RG. O Campo é obrigatório
+Passaporte: Deixar em branco se o colaborador for brasileiro
+Data de Nascimento: O Campo é obrigatório
+Sexo: Masculino/Feminino. O campo é obrigatório.
+Salário: Informe o salário do colaborador, caso não tenha, informe um valor fictício.
+Refeição Custeada: Escolha SIM ou NÃO. O campo é obrigatório.
+Tipo de Prestador: Escolha a opção FIXO ou ESPORÁDICO. O campo é obrigatório.
+Função: Informe a função que ele exerce na empresa
+Data de admissão: Data que consta na CTPS
+Data início de serviço: Precisar ser futura (No máximo 15 dias a frente)
+Data de termino: Não é obrigatório preencher
+Classificação: Verificar a que se enquadra ao colaborador de acordo com as opções que constam na planilha.
+Motivo da entrada: Verificar a que se enquadra de acordo com as opções que constam na planilha.
+Local de serviço: Escolher a opção que consta na planilha, caso não apareça a unidade que vai executar o trabalho, pode selecionar qualquer uma e incluir a correta no campo de observação.
+Exposição de Risco: Selecionar a opção que corresponde de acordo com a planilha (Não/Periculosidade/Insalubridade).
+Observação: Campo destinado a observações gerais. Esse item é obrigatório para o projeto Raízen, e nele deve ser informado o endereço completo do colaborador (rua, avenida, n°, apartamento, bairro, cidade e estado). Para os demais projetos, não é obrigatório.
+Estrangeiro: Selecionar SIM ou NÃO. O campo é obrigatório.
+E-mail do Funcionário: Informe o e-mail do colaborador que está sendo mobilizado. Esse item é obrigatório apenas para os projetos Guardian, John Deere
+Siemens Energy,  Industry e Lager Drives.
+ATENÇÃO: A partir do dia 24/01/2023, para as novas mobilizações dos clientes Siemens Energy,  Industry e LD o campo " e-mail do funcionário" deve estar preenchido com o e-mail do responsável Siemens pelos os que estão sendo mobilizados.
+
+**Pergunta:** Como inativar um colaborador na mobilização?
+**Resposta:** Caso o colaborador tenha sido desligado ou realocado, poderá retirá-lo da mobilização para que não haja cobrança de documentos. Para isso, siga as orientações abaixo:
+1- Na aba de Menu, clique em "Carregamento de Documentos" e depois "Carregar Mobilização".
+2- Digite o n° do contrato no campo de busca e clique em "pesquisar". Em seguida o sistema irá exibir todas as mobilizações do contrato.
+3- Na mobilização que o colaborador está, clique no segundo botão do lado direito "Colaboradores".
+4- No colaborador que deseja inativar, clique em "Editar", abaixo de "Ação".
+5- Clique no ícone " X " para inativa-lo.
+6- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=oEcRQwGjJIg
+
+**Pergunta:** Como excluir os documentos anexados no carregamento Mensal?
+**Resposta:** Para excluir os documentos que já foram anexados, siga o passo a passo destacado abaixo. Para uma melhor visualização das imagens, basta clicar sobre elas.
+- Atenção: Esta ação só é possível quando o documento ainda não foi analisado e se a competência não tiver sido lançada como “concluído”. Após a análise, o documento passa a integrar o banco de dados, não sendo possível a sua exclusão. Para correção do mesmo, basta inserir um novo documento e aguardar uma nova avaliação.
+1- Acesse a aba Carregamento de Documentos – Mensal, em seguida selecione a competência na qual deseja excluir o documento e clique em “Acessar carregamento”.
+2- Ao acessar a competência, nas etapas 06 ou 07 desmarque a opção “Mostrar apenas pendentes”;
+3- Para visualizar os documentos clique no título do documento, logo abaixo ficara disponível os documentos já anexados;
+4- Para excluir o documento clique no ícone da “lixeira”:
+Se desejar anexar outro documento, clique no ícone ‘Carregar arquivo” simbolizado por.
+
+
+**Pergunta:** Como reparar o PDF corrompido?
+**Resposta:** Quando o PDF está totalmente ou parcialmente corrompido, não conseguimos anexar no portal, pois informa o seguinte erro ao tentar anexar ou salvar documento:
+- Seguindo o passo a passo abaixo, é possível reparar o documento e anexar no portal:
+- Localize o documento no seu computador, clique com o botão direito do mouse e escolha a opção “abrir com”;
+- Selecione “Word”;
+- Depois que abrir o Word, clique em “Arquivo”;
+- Depois clique em “Exportar”;
+- Escolha a opção “Criar PDF/XPS”
+- Depois é só salvar o novo PDF e inserir no portal.
+- Importante: Quando for salvar o novo documento, salve com um nome diferente (pode ser apenas 1 caractere a mais).
+
+
+**Pergunta:** Como visualizar os documentos dos trabalhadores anexados?
+**Resposta:** Para visualizar os documentos que já foram anexados, siga as orientações abaixo:
+1- Na aba menu, clique em “Carregamento de Documentos”;
+2- Depois clique em “Carregar Mobilização” ou "Carregar Mensal" se for o caso;
+3- Pesquise pelo contrato ou contratada;
+4- Localize a mobilização ou a competência do colaborador e clique em acessar carregamento;
+5- Na etapa 7 do carregamento, desmarque a flag "Mostrar apenas pendentes";
+6- Clique no nome do colaborador que você deseja visualizar o anexo feito;
+- Fazendo isso, você pode visualizar o status da sua documentação, se atentando a coluna "progresso". Caso deseje baixar os arquivos, basta clicar em cima do anexo que o download será feito automaticamente.
+
+
+**Pergunta:** Como visualizar os documentos da empresa anexados?
+**Resposta:** Para visualizar os documentos que já foram anexados, siga as orientações abaixo:
+1- Na aba menu, clique em “Carregamento de Documentos” ;
+2- Depois clique em “Carregar Mobilização” ou "Carregar Mensal" se for o caso;
+3- Pesquise pelo contrato ou contratada;
+4- Localize a mobilização ou competência do colaborador e clique em acessar carregamento;
+5- Na etapa 6 do carregamento, desmarque a flag "Mostrar apenas pendentes";
+6- Clique no nome do documento que você deseja visualizar o anexo feito;
+- Fazendo isso, você pode visualizar o status da sua documentação, se atentando a coluna "progresso". Caso deseje baixar os arquivos, basta clicar em cima do anexo que o download será feito automaticamente.
+
+**Pergunta:** Como Inserir Comentários?
+**Resposta:** Sempre que for preciso justificar a falta de um documento ou informar que o documento solicitado no sistema não se aplica, basta realizar a inclusão de um comentário. Para isso siga as instruções abaixo:
+1-Clique em “comentário” (ícone verde com formato de balão https://s3.amazonaws.com/movidesk-files/4936A6AA88E969BCB4644069FA896EF0);
+2-Depois clique em “inserir um comentário” https://s3.amazonaws.com/movidesk-files/664C1593A6A442F478A83C4A51E499FB;
+3-Digite a justificativa e clique em “salvar” https://s3.amazonaws.com/movidesk-files/873725C1D1961182365037642A60B13A , em seguida em “fechar” https://s3.amazonaws.com/movidesk-files/908D1FB399C868D034A83C70D54ECBFD.
+- Pronto, o seu comentário ou a sua justificativa foi incluída no sistema e será analisada.
+
+**Pergunta:** Como anexar documentos em lote?
+**Resposta:** Para anexar um arquivo para vários colaboradores, siga as instruções abaixo:
+1- Na etapa 7 Anexar Documentos dos trabalhadores, selecione os colaboradores que estão contemplados no arquivo ou cliquei em selecionar todos(se for caso).
+2- Selecione o tipo do documento e clique em Carregar Arquivo.
+3- Aguarde até que o documento carregue no sistema.   ​
+- Atenção: Para inclusão dos documentos utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.
+- Atenção: Reforçamos que, o carregamento de documento em lote é um recurso que deve ser utilizado para a inclusão de um documento que, por sua natureza, contemple todos ou mais de um colaborador. Não aceitaremos para fins de análise o agrupamento de documentos individuais.
+
+**Pergunta:** Como localizar alguns documentos e modelos de documentos disponibilizados pelo Cliente?
+**Resposta:** No portal NewContract (V3), você sabia que consegue ter acesso a alguns documentos e modelos de documentos que o seu cliente disponibiliza?
+- Vamos te ensinar o passo a passo:
+- No menu, clique em utilitários;
+- Clique em documentos/links por contratante;
+- Selecione qual a sua contratante;
+- Logo abaixo, se o seu cliente disponibilizou os documentos/modelos irão aparecer a descrição e o documento para realizar o download;
+- Baixe o documento clicando em download;
+
+**Pergunta:** Como regularizar as pendências?
+**Resposta:** Para regularizar as pendências você precisa acessar a competência/mobilização, e fazer o upload dos arquivos nas etapas 6 e 7.
+- Para localiza-las, siga o passo a passo:
+1- Na aba de Menu, clique em "Carregamento de Documentos" e depois "Carregar Mobilização" ou "Carregar Mensal", se for o caso;
+2- Digite o n° do contrato no campo de busca e clique em "pesquisar". Em seguida o sistema irá exibir todas as competências do contrato;
+3- Clique em "Acessar Carregamento", na competência/Mobilização que deseja;
+4- Para regularizar um documento da empresa, clique na etapa 6;
+5- Clique no ícone vermelho para visualizar a pendência;
+6- Para anexar o documento, clique em "carregar arquivo", selecione o arquivo e clique em "Abrir". Caso a pendência não seja aplicável, clique em "Comentário" e depois "Inserir um comentário". Adicione uma justificativa e clique em "Salvar";
+7- Para regularizar um documento do trabalhador, clique na etapa 7;
+8- Clique em cima do nome do colaborador, e clique no ícone vermelho para visualizar a pendência;
+9- Para anexar o documento, clique em "carregar arquivo", selecione o arquivo e clique em "Abrir". Caso a pendência não seja aplicável, clique em "Comentário" e depois "Inserir um comentário". Adicione uma justificativa e clique em "Salvar".
+
+**Pergunta:** Como anexar documentos da empresa no carregamento mensal?
+**Resposta:** Para anexar os documentos da empresa, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.
+- Para inclui os arquivos, siga o passo a passo:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mensal;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências do contrato;
+3- Após localizar a competência, clique em Acessar Carregamento;
+4- Clique na etapa 6- Anexar Documentos da Empresa;
+5- Clique em cima do nome do documento;
+​6- Clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.
+7- Após anexar todos os documentos, clique no botão  no final da página.
+8- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=EfTuZR19YGU
+- Importante: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes.
+
+**Pergunta:** Como anexar documentos da empresa na mobilização?
+**Resposta:** Para anexar os documentos da empresa, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB. Também lembramos de que a mobilização só será analisada após o envio de todos os documentos ou justificativas.
+- Os documentos da empresa podem ser anexados de duas formas a depender do seu projeto, elas são:
+1- Envio dos documentos na etapa 6:
+- Clique na aba Carregamento de Documentos e depois Carregar Mobilização;
+- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+- Após localizar a mobilização, clique em Acessar Carregamento;
+- Clique na etapa 6- Anexar Documentos da Empresa;
+- Clique em cima do nome do documento;
+- Clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.
+- Após anexar todos os documentos, clique no botão no final da página.
+ATENÇÃO: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes.
+2- Envio dos documentos na competência da empresa:
+- Caso o seu cliente tenha optado por possuir uma mobilização especifica para incluir a documentação da empresa você só precisará seguir os seguintes passos:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+3-  Após localizar a competência de Documentos da empresa, clique em Acessar Carregamento;
+4-  Clique na etapa 1- Anexar Documentos da Empresa; Caso não apareça as solicitações dos documentos, desmarque a opção "Mostrar apenas pendentes";
+5- Clique em cima do nome do documento; Depois em Carregar Arquivo, selecione o arquivo e clique em Abrir;
+6- Após inserir todos os arquivos, clique em próximo e será direcionado para a etapa 2. Na etapa 2, clique em Reenviar Documentos Recebidos e pronto, seu arquivo foi enviado para análise. Agora é só aguardar o prazo de análise que é de 3 dias úteis.
+7- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=EfTuZR19YGU
+Observação: A mobilização exclusiva para documentação da empresa varia de acordo com o cliente, ou seja, há clientes que a possuem e clientes que não. No caso dos que não possuem a documentação da empresa vai ser solicitada a cada mobilização criada e precisa ser incluída na etapa 6.
+Observação: Há clientes que possuem a mobilização de documentação da empresa para documentos específicos (Exemplo: Programa de Gerenciamento de Riscos (PGR)). Nesse caso apenas o PGR era incluído nessa mobilização e os demais documentos da empresa (Exemplo: Programa de Controle Médico de Saúde Ocupacional (PCMSO), precisará ser incluído a cada nova mobilização criada.
+
+**Pergunta:** Como anexar documentos dos trabalhadores:
+**Resposta:** Para anexar os documentos dos trabalhadores, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.
+- Para inclui os arquivos, siga o passo a passo:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização ou Carregar Mensal, se for o caso;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências/mobilizações do contrato;
+3- Após localizar a mobilização/competência, clique em Acessar Carregamento;
+4- Clique na etapa 7- Anexar Documentos dos Trabalhadores;
+5- Clique em cima do nome do colaborador para visualizar a solicitação dos documentos;
+6- No documento que deseja anexar, clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.
+7- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=ZBzCep78ewg
+Atenção: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes.
+
+**Pergunta:** Quais são os documentos necessario para mobilizar um colaborador estrangeiro?
+**Resposta:** Para mobilizar um colaborador estrangeiro é importante se atentar aos documentos necessários:
+- Passaporte:  Documento que identifica o viajante em outros países. Nele são registradas entradas e saídas, vistos e autorizações, para a identificação da nacionalidade e quanto tempo o estrangeiro irá permanecer no Brasil.
+- Registro nacional de estrangeiro (CRNM): É o documento que atesta a identidade de indivíduos estrangeiros com residência temporária ou permanente no Brasil, é obrigatório registra-se na Polícia Federal.
+- Autorização para trabalho emitido pelo MTE: É autorização de trabalho que se converte em visto temporário.
+- Também é importante a apresentação dos seguintes documentos para que seja realizada uma análise completa para preservar a saúde e integridade física dos colaboradores e minimização dos riscos:
+- Ficha de EPI: Ficha de equipamento de proteção individual, cujo o objetivo é controlar a entrega dos equipamentos para que o colaborador não sofra algum dano à saúde no decorrer de sua atividade laboral, conforme a Norma Regulamentadora 06.
+- Aso: Atestado de saúde ocupacional, que tem por objetivo atestar se o funcionário está apto ou não para exercer as funções profissionais para o cargo indicado, conforme a Norma Regulamentadora 07.
+- Certificados de treinamentos: Conforme a função que o estrangeiro irá exercer.
+- OBS: Lembrando que se for cobrado outro tipo de documento é por solicitação do cliente no qual irá prestar serviço.
+
+**Pergunta:** Como realizar convalidação e complementação de Certificados de treinamentos?
+**Resposta:** Você pode convalidar ou complementar um certificado de treinamento, para isto, basta seguir as informações abaixo:
+👉 Caso um treinamento esteja vigente e foi recebido pelo trabalhador durante o período em que era empregado de outra empresa, poderá ser convalidado (reaproveitado) ou complementado (reaproveitado com acréscimo de conteúdo e carga horária) pela empresa atual.
+👉 Lembrando que o certificado poderá ser aceito antes da admissão do trabalhador, sem a necessidade de convalidação, desde que o trabalhador, tenha buscado por si mesmo uma instituição de ensino para atualizar o seu conhecimento. Assim não poderá evidenciar que o treinamento foi realizado por uma contratante anterior, caso evidencie, é necessário a convalidação ou complementação pela contratante atual.
+👉 Se a contratante atual treinou o trabalhador sem tê-lo admitido (com comprovação na CTPS), este certificado não está conforme e ela mesma não pode se "auto convalidar" (pois os treinamentos nas NRs) são considerados como tempo de trabalho efetivo de acordo com a NR01, item 1.6.2).
+👉 Quando não possuir data de validade de acordo com a NR, o treinamento no qual o trabalhador recebeu capacitação não poderá ter sido realizado há mais de 2 anos, pois a convalidação/complementação não é permitida. Deste modo o trabalhador deverá receber nova capacitação de maneira integral. ​
+👉 O treinamento Admissional NR 18.28 (também conhecido como Integração) e o treinamento sobre o Uso e Conservação de EPIs NR 06 não podem ser convalidados e nem complementados, pois estão totalmente vinculados aos riscos e procedimentos específicos da atual função do trabalhador.
+
+- Agora vamos te explicar quais os itens que deverá conter no certificado de Convalidação ou Complementação:
+✔️A informação de que se trata de um Certificado de Complementação ou de Convalidação;
+✔️Nome e assinatura do trabalhador;
+✔️Conteúdo programático (se for uma complementação, deve informar também o conteúdo que foi complementado);
+✔️Carga Horária (se for uma complementação, deve informar também a carga horária que foi complementada);
+✔️Data do treinamento (se for uma complementação, deve informar também data do treinamento complementar) ​;​
+✔️Local de realização do treinamento (se for complementação, deve informar também local em que foi complementado);
+✔️Nome e qualificação do responsável pela ministração do treinamento (incluindo observar se possui o nº de registro do profissional no órgão competente)
+- Quando for apenas uma convalidação, não é necessária assinatura do instrutor. Se for uma complementação, pediremos a assinatura apenas do instrutor que complementou o treinamento);
+- Caso a contratante não possui profissional SST, o responsável legal da empresa deverá assinar, informando seu nome, CPF e cargo (sócio, diretor, etc);
+✔️Local e data da atual emissão do Certificado de Complementação/Convalidação.
+- Vale lembrar que quando um funcionário é desligado de uma empresa e posteriormente recontratado por ela (após 90 dias), aceitaremos os mesmos certificados de treinamentos oferecidos pela empresa antes de o trabalhador ser desligado.
+- Observaremos apenas se o certificado ainda está vigente (quando houver esse controle). Para esse caso não é necessário realizar a convalidação, pois a convalidação ocorre quando o treinamento ocorreu entre empresas diferentes.
+
+**Pergunta:** Como alterar dados ou incluir colaboradores em uma Mobilização?
+**Resposta:** Você precisa ajustar alguma informação do colaborador na mobilização? Esse tutorial é para você!
+- Caso tenha inserido algum dado errado ou queira inserir um colaborador em uma mobilização já criada, agora é possível realizar esse procedimento no portal. Lembrando que esse procedimento só é permitido no mesmo dia de criação da mobilização.
+- Exemplo: Se a mobilização foi criada no dia 09/09/2022, a alteração dos dados ou inclusão de colaboradores na mobilização, só pode ser realizada até as 23:59 do dia 09/09/2022.
+- Caso queira alterar algum dado após a data de criação, será necessário entrar em contato com nossa central de atendimento para solicitar uma crítica de funcionário.
+- Observação: Nesse procedimento não é possível alterar a matrícula do colaborador.
+- Para alterar as informações dos colaboradores que já estão na competência, siga as orientações abaixo:
+1- Clique na opção carregamento de documentos;
+2- Clique em carregar mobilização;
+3- Pesquise o contrato e ache a data da mobilização.
+4- Acesse a mobilização que deseja alterar os dados ou incluir um novo colaborador, clicando no ícone.
+5- Na etapa 8, clique em “Modificar/Adicionar dados dos colaboradores da competência”.
+6- Na etapa 4, para alterar informações dos colaboradores já cadastrados, basta localizar o colaborador, alterar no campo desejado e clicar em “salvar” > “próximo”.
+7- Para incluir um novo colaborador, clique na etapa 2. Depois, clique em adicionar ou inserir uma nova planilha e por ultimo clicar em “salvar” > “próximo”.
+
+**Pergunta:** Como Mobilizar Sócios?
+**Resposta:** Sabemos que é possível que você vá pessoalmente prestar serviços na base da contratante em algum momento. Para isso, um documento que comprove a sua condição de sócio da empresa deve ser apresentado para que possamos realizar a validação. Existem 3 documentos capazes de fazer esta comprovação. São eles: O Certificado de Condição de Microempreendedor Individual (CCMEI), ou o Requerimento do Empresário, ou o Contrato Social. A seguir, te explicamos um pouco mais sobre eles:
+- Certificado de Condição de Microempreendedor Individual (CCMEI):
+- Trata-se do documento que atesta que uma empresa está aberta. Este documento comprova a inscrição no CNPJ e Junta Comercial do Estado e serve como alvará de funcionamento do negócio do Microempreendedor, neste caso ele é o proprietário e não possui sócios.
+- Requerimento do Empresário:
+- É emitido quando um empreendedor (que não se enquadra na categoria MEI) abre uma empresa individual, onde não há sócios. Ele também é registrado na Junta Comercial do Estado.
+- Contrato Social:
+- É o documento que formaliza a abertura da empresa mediante a Junta Comercial e nele constam todas as normas que a empresa terá que seguir para funcionar. No caso do contrato social a empresa possui mais de um sócio.
+- Ao mobilizar o proprietário da empresa cadastrada no portal a sua classificação no sistema na etapa 2 precisa ser de Sócio/PJ, dessa forma o sistema automaticamente solicita apenas os documentos necessários a essa classificação. O Sistema também irá gerar outros campos para solicitar documentos relacionados à sua saúde e segurança, de acordo com as exigências da sua contratante e das Normas Legais em vigor.
+
+**Pergunta:** Como excluir um colaborador da integração?
+**Resposta:** Siga as seguintes instruções para excluir um colaborador da integração:
+1- Na aba de menu, clique em Integração e depois Agendar integração.
+2- Selecione a contratante e busque pela unidade na qual realizou o agendamento. Você também pode pesquisar pela data clicando no calendário;
+3- Após localizar a unidade, clique em Inserir Colaborador;
+4- No final da página a relação dos colaboradores agendados estará em "Colaborador na Integração". Busque pelo nome do colaborador e clique no "x" para remover.​
+
+**Pergunta:** Como localizar alguns documentos e modelos de documentos disponibilizados pelo Cliente?
+**Resposta:** No portal NewContract (V3), você sabia que consegue ter acesso a alguns documentos e modelos de documentos que o seu cliente disponibiliza?
+- Vamos te ensinar o passo a passo:
+- No menu, clique em utilitários;
+- Clique em documentos/links por contratante;
+- Selecione qual a sua contratante;
+- Logo abaixo, se o seu cliente disponibilizou os documentos/modelos irão aparecer a descrição e o documento para realizar o download;
+- Baixe o documento clicando em download;
+
+**Pergunta:** Como localizar a mobilização?
+**Resposta:** Para localizar a mobilização, siga as orientações abaixo:
+1° Clique na aba “Carregamento de Documentos” e depois “Carregar Mobilização”;
+2° Digite o n° do contrato no campo de busca e clique em “pesquisar”. Em seguida o sistema irá exibir todas as mobilizações do contrato.
+- Obs.: Você também pode utilizar o filtro “Competência”, para selecionar o mês de busca. Lembramos também que, caso possua muitas mobilizações, deverá clicar em “próximo” no final da página, para acessar as outras páginas.
+
+**Pergunta:** Como regularizar as pendências de colaborador na Mobilização?
+**Resposta:** Para regularizar as pendências do colaborador na mobilização, você deverá seguir as instruções:
+- Atenção: Não é preciso criar uma nova mobilização para regularizar as pendências, basta acessar a mobilização existente.
+- Siga o passo a passo:
+1- Já com acesso ao portal, clique na Aba “Carregamento de documentos” e depois “Carregar mobilização” no menu do lado esquerdo da tela
+2- No campo de busca, digite o seu contrato ou Nome da empresa e clique em “Pesquisar”
+3- Quando localizada a mobilização, clique em “Acessar carregamento”, no canto direito da tela. Este é o ícone
+4- Após acessar a mobilização, você clicará na etapa 7 (etapa de documentos de colaboradores)
+5- Na etapa 7, verifique se o filtro "Mostrar apenas pendentes" está marcado
+6- Para os colaboradores com "Documentos não entregues"  , clique em
+7- Identifique os colaboradores que possui o ícone de pendência
+8- Clique no ícone para verificar a não conformidade
+9 - Clique em "carregar documento" para anexar o documento atualizado
+10- Selecione o documento e clique em abrir.
+11- Após anexar todos os documentos, clique em "Próximo".
+- Lembre-se: Para que a mobilização seja analisada, todos os documentos que estão pendentes precisam ser anexados ou justificados(incluindo um comentário no ícone ).
+
+**Pergunta:** Como confirmar o agendamento da Integração?
+**Resposta:** Após realizar o agendamento da integração, dentro de alguns minutos é encaminhado para o e-mail cadastrado um comunicado confirmando o agendamento. Caso não tenha recebido, é só acessar a integração para qual realizou o agendamento (repetindo o passo a passo do agendamento), e conferir em "Colaborador na integração", se o nome do colaborador está listado. Se estiver, está confirmado!
+- Caso não saiba como localizar a integração para qual realizou o agendamento, siga o passo a passo:
+1- Na aba de menu, clique em "Integração" e depois "Agendar integração". Selecione a contratante e busque pela unidade na qual realizou o agendamento. Você também pode pesquisar pela data clicando no calendário;
+2- Após localizar a unidade, clique em "Inserir Colaborador";
+3- No final da página a relação dos colaboradores agendados estará em "Colaborador na Integração". Busque pelo nome do colaborador.
+4- Se o nome do colaborador não estiver, é necessário que realize o agendamento.
+
+**Pergunta:** Como reativar um colaborador na mobilização?
+**Resposta:** Siga os seguites passos para realizar a reativação de um colaborador na mobilização:
+1- Na aba de Menu, clique em Carregamento de Documentos.
+2- Clique em Carregar Mobilização.
+3- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato.
+4- Na mobilização que o colaborador está inativado, clique no segundo botão do lado direito "Colaboradores".
+5- No colaborador que deseja ativar, clique em Editar abaixo de "Ações".
+5-Clique em Ativar colaborador.
+- Após realizar esse procedimento, verifique nas etapas 6 e 7 da mesma mobilização, se precisa atualizar algum documento.
+- Importante: Ainda ficou com dúvidas? Que tal assistir o tutorial? Link do tutorial: https://www.youtube.com/watch?v=Fkn5wvSWzG8
+
+**Pergunta:** Como incluir colaboradores na mobilização?
+**Resposta 11:** A inclusão de colaboradores ocorre na etapa 2. Assista o tutorial para aprender a como realizar esse procedimento: https://www.youtube.com/watch?v=JRGkk_Cg6VE
+
+**Pergunta:** Como emitir Crachá?
+**Resposta:** Esta funcionalidade permite que os crachás dos colaboradores sejam emitidos. Você também poderá alterar a foto, imprimir o cartão, baixar documentos, visualizar integração do colaborador e documentos pendentes.
+- Para consultar ou emitir o crachá, siga as orientações abaixo:
+- Ao clicar em você será direcionado para a página de edição e impressão:
+- Você pode inserir uma foto do trabalhador e estando Aprovado, ficará disponível opção "Imprimir"
+- As informações contidas no crachá são:
+1- Nome do trabalhador;
+2- Função;
+3- Empresa;
+4- CPF;
+5- Validade da Integração;
+6- Validade do ASO;
+7- Validades dos treinamentos de NR.
+- Observações:
+- check-mark (1)  A Barra da função é ajustável de acordo com a quantidade de caracteres da função do colaborador.
+- check-mark (1)  Na impressão, já aparece a marcação para o furo do crachá.
+
+**Pergunta:** Como anexar documentos da empresa na mobilização?
+**Resposta:** Para anexar os documentos da empresa, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB. Também lembramos de que a mobilização só será analisada após o envio de todos os documentos ou justificativas.
+- Os documentos da empresa podem ser anexados de duas formas a depender do seu projeto, elas são:
+1 - Primeira forma - Envio dos documentos na etapa 6:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+3- Após localizar a mobilização, clique em Acessar Carregamento;
+4- Clique na etapa 6- Anexar Documentos da Empresa;
+5- Clique em cima do nome do documento;
+6- Clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.
+7- Após anexar todos os documentos, clique no botão no final da página.
+- ATENÇÃO: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes.
+2 - Segunda forma - Envio dos documentos na competência da empresa:
+- Caso o seu cliente tenha optado por possuir uma mobilização especifica para incluir a documentação da empresa você só precisará seguir os seguintes passos:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as mobilizações do contrato;
+3-  Após localizar a competência de Documentos da empresa, clique em Acessar Carregamento;
+4-  Clique na etapa 1- Anexar Documentos da Empresa; Caso não apareça as solicitações dos documentos, desmarque a opção "Mostrar apenas pendentes";
+5- Clique em cima do nome do documento; Depois em Carregar Arquivo, selecione o arquivo e clique em Abrir;
+6- Após inserir todos os arquivos, clique em próximo e será direcionado para a etapa 2. Na etapa 2, clique em Reenviar Documentos Recebidos e pronto, seu arquivo foi enviado para análise. Agora é só aguardar o prazo de análise que é de 3 dias úteis.
+Observação¹: A mobilização exclusiva para documentação da empresa varia de acordo com o cliente, ou seja, há clientes que a possuem e clientes que não. No caso dos que não possuem a documentação da empresa vai ser solicitada a cada mobilização criada e precisa ser incluída na etapa 6.
+Observação²: Há clientes que possuem a mobilização de documentação da empresa para documentos específicos (Exemplo: Programa de Gerenciamento de Riscos (PGR)). Nesse caso apenas o PGR era incluído nessa mobilização e os demais documentos da empresa (Exemplo: Programa de Controle Médico de Saúde Ocupacional (PCMSO), precisará ser incluído a cada nova mobilização criada.
+Caso ainda tenha dúvidas, assista o tutorial abaixo: https://www.youtube.com/watch?v=EfTuZR19YGU
+
+**Pergunta:** Como alterar dados dos Colaboradores na MOBILIZAÇÃO (Crítica de Funcionário)?
+**Resposta:** Você sabe o que quer dizer esse termo e como alterar/atualizar as informações cadastrais do colaborador no sistema New Contract?
+- Se não sabe, vamos te ensinar agora.
+- Em algumas situações é necessário atualizar/alterar as informações fornecidas no momento do cadastro daquele colaborador e a essa ação nós atribuímos o nome de crítica de funcionário. A crítica funciona em duas etapas, a primeira realizada pela equipe da Bernhoeft, para isso você, fornecedor, precisa entrar em contato conosco para efetuarmos a habilitação. A segunda etapa é com você, que precisa confirmar no sistema que realizamos a alteração, conforme solicitado.
+- Vamos ao passo-a-passo:
+- Na primeira etapa, você deverá entrar em contato com a nossa equipe de atendimento através do número (11) 4118-6665 ou através do Chat, clicando no ícone da interrogação no canto inferior direito da tela do portal.
+Informe os dados que precisam ser alterados. Exemplo de alterações: nome, CPF, PIS, função, classificação, local de serviço, etc.
+- Segunda etapa: Acesse a mobilização, clicando em carregamento de documentos > carregar mobilização > digite o contrato e filtre a data da competência. Ao fazer isso verá que o ícone de acessar carregamento estará vermelho, isso significa que a etapa de atualização está liberada.
+- Clicando em “Acessar carregamento”, você será direcionado para a etapa 4 e poderá atualizar o item solicitado, que estará tracejado em laranja, assim como no exemplo:
+- Realizando a confirmação da alteração a escrita precisa ser a mesma que será exibida no balão “Valor encontrado” incluindo letras maiúsculas e minúsculas, conforme mostramos:
+Após alterar, clique no botão “Próximo” e pronto, sua alteração foi realizada;
+- Para conferir se de fato ocorreu a alteração, verifique em utilitários > consultar colaboradores em mobilização e digite os dados necessários.
+- Ah! Não esqueça de usar os filtros disponíveis.
+- Ressaltamos que não é possível alterar no sistema o item “Matrícula”, entretanto para mobilização esse item não gera contratempos em sua análise.
+- Se a alteração for na função do colaborador, os documentos atualizados devem ser inseridos antes, já constando a nova função do colaborador. São eles: ASO (quando houver mudança de função com mudança de riscos), Ordem de serviço e Ficha de EPI (caso os EPIs mudem da função antiga para a nova). Se forem necessários novos treinamentos nas NRs em decorrência dessa mudança de função, os certificados de treinamento também devem ser apresentados.
+
+**Pergunta:** Como anexar documentos dos trabalhadores?
+**Resposta:** Para anexar os documentos dos trabalhadores, utilize apenas o navegador Google Chrome, e certifique-se de que os arquivos estão no formato PDF, com tamanho máximo de 20MB.
+- Para inclui os arquivos, siga o passo a passo:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização ou Carregar Mensal, se for o caso;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências/mobilizações do contrato;
+3- Após localizar a mobilização/competência, clique em Acessar Carregamento;
+4- Clique na etapa 7- Anexar Documentos dos Trabalhadores;
+5- Clique em cima do nome do colaborador para visualizar a solicitação dos documentos;
+6- No documento que deseja anexar, clique em Carregar Arquivo, selecione o arquivo e clique em Abrir.
+- ATENÇÃO: Se os nomes dos colaboradores não estiverem visíveis, desmarque a opção Mostrar Apenas Pendentes.
+- Importante: Caso ainda tenha dúvidas, assista o tutorial: https://www.youtube.com/watch?v=ZBzCep78ewg
+
+**Pergunta:** Como verificar o prazo de análise da mobilização?
+**Resposta:** A mobilização seguirá para análise após o envio de todos os documentos e justificativas. Para acompanhar o prazo de envio do relatório é bem simples e vamos explicar agora!smile
+- Siga as seguintes orientações:
+1- Na barra de menu, clique em Relatórios e clique em Prazos da Mobilização;
+2- Selecione a contratante e digite o número do contrato;
+3- Selecione as opções Exibir todos os prazos e Considerar Reanálise. Em "Quantidade", digite "100";
+4- Clique em Solicitar Relatório,
+5- Ao clicar em "Solicitar Relatório", observe que a coluna "Status" ficará com a informação "Agendada". Atualize a página até que o status mude para "Finalizada";
+6- Clique em "Download" para baixar o relatório em excel e verifique as colunas "Prazo" e "Indicador", conforme abaixo:
+- Indicador cinza, prazo 4:  indica que a mobilização possui pendências e ainda falta anexar algum documento;
+- Indicador verde, prazo 3:  até 3 dias úteis;
+- Indicador verde, prazo 2: até 2 dias úteis;
+- Indicador amarelo, prazo 1: até 1 dias útil;
+- Indicador amarelo, prazo 0: o relatório será enviado no dia;
+- Indicador Azul: o relatório ja foi enviado e a mobilização está conforme.
+7- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=9snce1AiVf0
+
+**Pergunta:** Como agendar uma integração?
+**Resposta:** Para realizar o agendamento da integração é necessário que os colaboradores estejam com o status "Conforme" após a avaliação dos documentos.
+- Atenção: As datas disponíveis no sistema Bernhoeft são cadastradas pela contratante. Caso não tenha turma para o dia e o local desejado, entre em contato com o seu contratante.
+- Para o agendamento, siga o passo a passo:
+1- Na aba de menu, clique em "Integração" e depois "Agendar integração". Selecione a contratante e em "Buscar", digite a unidade para qual deseja o atendimento, ou se preferir, também pode pesquisar pela data clicando no calendário;
+2- Após localizar a unidade, clique em "Inserir Colaborador";
+3- Em "Pesquisar colaborador" selecione a sua empresa e clique em "Pesquisar";
+4- Clique em "adicionar" para realizar o agendamento.
+5- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=XeuB-9n728g
+
+**Pergunta:** Como consultar o colaborador em mobilização, status do colaborador, unidade e validade de integrações?
+**Resposta:** Para verificar a data da mobilização que se encontra o colaborador, validade das integrações, status do colaborador e data de validade dos documentos, siga as orientações a seguir:
+1- No menu, clique na aba Utilitários.
+2- Clique em Consultar colaboradores em Mobilização.
+3- Selecione o seu cliente e digite o nome do colaborador. Se preferir, insira o n° do CPF e RG.
+4- Você pode marcar a opção “Desagrupar Terceiros” para visualizar as integrações do colaborador de forma separada.
+5- Clique em Pesquisar.
+6- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=QH1AmeqjQro
+Atenção: Você também pode fazer a busca pelo n° do contrato clicando em “Filtros” e selecionando apenas “Contrato”. Feito isso, digite o contrato e clique em “pesquisar”
+Observação: A opção de desagrupar terceiros é para separar as integrações do colaborador, caso ele tenha mais que uma integração lançada no portal.
+
+**Pergunta:** Como preencher a planilha de inclusão de colaboradores corretamente - MOBILIZAÇÃO?
+**Resposta:** Para que a planilha seja anexada, você precisa utilizar o modelo padrão disponível para download no sistema. Para o preenchimento correto da planilha, você precisa se atentar as orientações abaixo: ​
+- Observações Gerais:
+1- Ao abrir a planilha, clique em "Habilitar Edição" no canto superior direito, para que as células fiquem habilitadas para o preenchimento;
+2- Não é permitido copiar e colar os dados de outra planilha ou de outro local;
+3- Não alterar a fonte (tamanho ou estilo);
+4- Os dados dos colaboradores devem estar um abaixo do outro (não pode pular linhas);
+5- As células que possuem campo suspenso, devem ser selecionadas e nunca digitadas;
+6- Salve a planilha sem alterar o formato do arquivo.
+- Preenchimento dos Campos:
+Matricula: Siga o exemplo descrito na planilha. Caso os seus colaboradores não tenham o número de matrícula, crie um número fictício desde que seja único, ou seja, que não se repita para outro colaborador, ex. 001, 002. 003 e etc.
+CPF:  Verificar se possuem pontuação e são validos. Você pode validar o CPF acessando o link:  https://www.4devs.com.br/validador_cpf
+PIS: Este campo não é obrigatório para a classificação sócio, estrangeiro e autônomo, mas caso seja solicitado pelo portal é possível gerar uma numeração de PIS para o preenchimento no link: https://www.4devs.com.br/gerador_de_pis_pasep
+Para as demais classificações, verificar se possuem pontuação e são validos. Você pode validar o PIS acessando o link:  https://www.4devs.com.br/validador_pis_pasep
+RG: Digite o RG. O Campo é obrigatório
+Passaporte: Deixar em branco se o colaborador for brasileiro
+Data de Nascimento: O Campo é obrigatório
+Sexo: Masculino/Feminino. O campo é obrigatório.
+Salário: Informe o salário do colaborador, caso não tenha, informe um valor fictício.
+Refeição Custeada: Escolha SIM ou NÃO. O campo é obrigatório.
+Tipo de Prestador: Escolha a opção FIXO ou ESPORÁDICO. O campo é obrigatório.
+Função: Informe a função que ele exerce na empresa
+Data de admissão: Data que consta na CTPS
+Data início de serviço: Precisar ser futura (No máximo 15 dias a frente)
+Data de termino: Não é obrigatório preencher
+Classificação: Verificar a que se enquadra ao colaborador de acordo com as opções que constam na planilha.
+Motivo da entrada: Verificar a que se enquadra de acordo com as opções que constam na planilha.
+Local de serviço: Escolher a opção que consta na planilha, caso não apareça a unidade que vai executar o trabalho, pode selecionar qualquer uma e incluir a correta no campo de observação.
+Exposição de Risco: Selecionar a opção que corresponde de acordo com a planilha (Não/Periculosidade/Insalubridade).
+Observação: Campo destinado a observações gerais. Esse item é obrigatório para o projeto Raízen, e nele deve ser informado o endereço completo do colaborador (rua, avenida, n°, apartamento, bairro, cidade e estado). Para os demais projetos, não é obrigatório.
+Estrangeiro: Selecionar SIM ou NÃO. O campo é obrigatório.
+E-mail do Funcionário: Informe o e-mail do colaborador que está sendo mobilizado. Esse item é obrigatório apenas para os projetos Guardian, John Deere
+Siemens Energy,  Industry e Lager Drives.
+- ATENÇÃO: A partir do dia 24/01/2023, para as novas mobilizações dos clientes Siemens Energy,  Industry e LD o campo " e-mail do funcionário" deve estar preenchido com o e-mail do responsável Siemens pelos os que estão sendo mobilizados.
+
+**Pergunta:** Como inativar um colaborador na mobilização?
+**Resposta:** Caso o colaborador tenha sido desligado ou realocado, poderá retirá-lo da mobilização para que não haja cobrança de documentos. Para isso, siga as orientações abaixo:
+1- Na aba de Menu, clique em "Carregamento de Documentos" e depois "Carregar Mobilização";
+2- Digite o n° do contrato no campo de busca e clique em "pesquisar". Em seguida o sistema irá exibir todas as mobilizações do contrato;
+3- Na mobilização que o colaborador está, clique no segundo botão do lado direito "Colaboradores";
+4- No colaborador que deseja inativar, clique em "Editar", abaixo de "Ação";
+5- Clique no ícone " X " para inativa-lo.
+6- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=oEcRQwGjJIg
+
+**Pergunta:** Como criar uma mobilização?
+**Resposta:** Assista ao tutorial abaixo para descobrir como mobilizar os seus trabalhadores ou siga as orientações localizadas abaixo do vídeo:
+- Para criar uma nova mobilização, siga os passos:
+- Atenção: O sistema só permite criar uma mobilização por dia para o mesmo contrato e CNPJ. Dessa forma, caso já tenha criado uma hoje, não será possível fazer outra. O próprio sistema não permite.
+- Na tela Carregamento de Documentos – Mobilização, clique no ícone abaixo:
+- Após clicar em “Nova Mobilização” observe o pop-up:
+- Após clicar em "ok" você será direcionado para a etapa 2, onde deverá adicionar os dados dos colaboradores.
+- Assista o tutorial para saber mais: https://www.youtube.com/watch?v=NnF6_vHLXdo
+
+**Pergunta:** Como vizualizar o Feedback de Pendências?
+**Resposta:** Para avaliar a pendência aplicada, nas etapas 6 e 7, siga as orientações abaixo:
+1 -  Clique no ícone da pendência;
+2 - Clique no botão de Like ou Dislike para avaliar;
+3 - Para avaliações negativas, ao clicar no Dislike, selecione a justificativa que mais se aplica a sua avaliação;
+4 - Clique em Enviar.
+
+**Pergunta:** Como extrair o Relatório de Controle de Validade de Documentos?
+**Resposta:** Você sabia que consegue extrair do sistema o relatório onde traz a validade de todos os documentos anexados nas mobilizações?
+- O Relatório de Controle de Validades de Documentos é essencial para que se tenha uma gestão efetiva dos documentos que estão próximos do vencimento, fazendo com que você esteja um passo à frente para atualiza-lo no sistema, evitando que o colaborador fique impossibilitado de continuar a prestação de serviços ao cliente.
+- Vamos te ensinar o passo a passo:
+- No menu, clique em Relatórios;
+- Clique em Relatório Controle de Validade dos Documentos;
+- Selecione a sua contratante e a contratada. Se desejar digite o número do contrato ou o CPF do colaborador no caso de uma consulta específica;
+- Para uma consulta mais detalhada, clique em.
+- Para obter as informações na tela, clique em.
+- Caso ainda restem dúvidas acione a Beth, nossa assistente virtual no canto superior direito da tela.
+
+**Pergunta:** Onde visualizar as pendências?
+**Resposta:** As pendências podem ser verificadas de duas formas:
+- Acessando a mobilização/competência:
+1- Clique na aba Carregamento de Documentos e depois Carregar Mobilização ou Carregar Mensal, se for o caso;
+2- Digite o n° do contrato no campo de busca e clique em Pesquisar. Em seguida o sistema irá exibir todas as competências do contrato;
+3- Na tela inicial, após localizar a mobilização/competência, clique em Acessar Carregamento;
+4- Clique na etapa 6. As pendências são sinalizadas por um botão vermelho, que você pode clicar para ter acesso a não conformidade;
+5-Clique na etapa 7, e clique em cima do nome do colaborador para visualizar as pendências. Clique no botão vermelho.
+- Ou você também pode emitir o relatório de pendências na aba "Utilitários":
+1- Na barra de menu clique em Utilitários e clique em Envio Relatório de Pendências;
+2- Selecione a contratante, o grupo de área e a situação "Todos";
+3- Digite a data de busca e clique em Pesquisar;
+4- Selecione Mensal ou Mobilização;
+5- Selecione as competências/mobilizações que deseja e clique em Visualizar e-mail para emitir o relatório em PDF.
+
+**Pergunta:** Como emitir um relatório de pendências atualizado?
+**Resposta:** Você sabia que é simples emitir um relatório de pendências atualizado? De maneira simples, vamos mostrar como visualizar as pendências seguindo as instruções abaixo:
+1- Na barra de menu clique em Utilitários e clique e​m Envio Relatório de Pendências;
+2- Selecione a contratante, o grupo de área e a situação "Todos";
+3- Digite o número do contrato, a data de busca e clique em Pesquisar;
+4- Clique em Mensal ou Mobilização;
+​5- Selecione as competências/mobilizações que deseja e clique em Visualizar e-mail para emitir o relatório em PDF.
+- Se desejar anexar algum documento que esteja dentro das não conformidades, clique em Tratar, no próprio relatório, para ser direcionado para a tela de inclusão de documentos.
+
+**Pergunta:** Como verificar os prazos da análise?
+**Resposta:** Para verificar os prazos de envio dos documentos e relatórios, siga o passo a passo abaixo:
+1- Clique na barra de menu em “Utilitários” e depois em “Prazos da Análise”;
+​2- Selecione a sua contratante e verifique as informações na tela.
+Lembramos que para mobilizações, o prazo de análise é de até 3 dias úteis. Esse prazo começa a contar no primeiro dia útil posterior ao envio do último documento.
+
+**Pergunta:** Como verificar o prazo de análise da mobilização?
+**Resposta:** A mobilização seguirá para análise após o envio de todos os documentos e justificativas. Para acompanhar o prazo de envio do relatório é bem simples e vamos explicar agora!
+- Siga as seguintes orientações abaixo:
+1- Na barra de menu, clique em Relatórios e clique em Prazos da Mobilização;
+2- Selecione a contratante e digite o número do contrato;
+3- Selecione as opções Exibir todos os prazos e Considerar Reanálise. Em "Quantidade", digite "100";
+4- Clique em Solicitar Relatório,
+​5- Ao clicar em "Solicitar Relatório", observe que a coluna "Status" ficará com a informação "Agendada". Atualize a página até que o status mude para "Finalizada";
+6- Clique em "Download" para baixar o relatório em excel e verifique as colunas "Prazo" e "Indicador", conforme abaixo:
+- ​Indicador cinza, prazo 4:  indica que a mobilização possui pendências e ainda falta anexar algum documento;
+- Indicador verde, prazo 3:  até 3 dias úteis;
+- Indicador verde, prazo 2: até 2 dias úteis;
+- Indicador amarelo, prazo 1: até 1 dias útil;
+​- Indicador amarelo, prazo 0: o relatório será enviado no dia;
+​- Indicador Azul: o relatório ja foi enviado e a mobilização está conforme.
+7- Assista o vídeo: "https://www.youtube.com/watch?v=9snce1AiVf0"
+
+**Pergunta:** Como localizar Cartilhas, manuais, tutoriais e modelos de documentos no sistema NewContract?
+**Resposta:** Ao acessar o NewContract, siga as instruções:
+- Na barra de menu, clique em Suporte > Cartilha.
+- Na opção Manuais e Cartilhas, você pode pesquisar o material que deseja:
+- Desça a barra de rolagem para visualizar os Tutoriais.
+
+**Pergunta:** falar com um atendente
+**Resposta:** Vou te transferir para um atendente agora, aguarde só um instante.
+
+**Categoria: Documentos para Mobilização de Trabalhadores - V3**
+**Resposta:** Documentos da Empresa**
+
+**Pergunta:** O que é o FISPQ (Ficha de Informação de Segurança para Produtos Químicos)
+**Resposta:** O FISPQ é um documento normalizado pela Associação Brasileira de Normas Técnicas (ABNT). A ficha de informações de segurança de produtos químicos (FISPQ) fornece informações sobre vários aspectos de produtos químicos (substâncias ou misturas) quanto à proteção, à segurança, à saúde e ao meio ambiente. A FISPQ fornece, para esses aspectos, conhecimentos básicos sobre os produtos químicos, recomendações sobre medidas de proteção e ações em situação de emergência.
+Fique atento aos pontos de atenção abaixo:
+1- Verificar se o documento foi apresentado.
+2- Risco Atrelado: Existem inúmeras legislações relacionadas a exigência da FISPQ. Dentre elas o Decreto n 2657 de 1998 que estabelece a obrigatoriedade do fornecimento da FISPQ para o trabalhador de todos os produtos químicos utilizados no trabalho e a NR-26 informa que os trabalhadores deverão receber treinamento quanto as informações contidas na FISPQ. Diante disso, a empresa que não cumprir os dispostos nas legislações em que se enquadram, estará exposta as penalidades cabíveis a cada órgão fiscalizador competente à sua área de atuação.
+3- Principais não conformidades e forma de regularização:
+- 👉Não conformidade: A cópia do documento não foi apresentada.
+- ✔️Regularização: A contratada deverá apresentar cópia do documento.
+
+**Pergunta:** O que é o PCMAT (Programa de Condições e Meio Ambiente de Trabalho da Construção Civil)
+**Resposta:** O PCMAT Programa de Condições e Meio Ambiente de Trabalho da Construção Civil que estabelece procedimentos de ordem administrativa, de planejamento e de organização, que objetivam a implantação de medidas de controle e sistemas preventivos de segurança nos processos, nas condições e no meio ambiente de trabalho na Indústria da Construção. Resumindo, o PCMAT dita uma série de medidas de segurança a serem adotadas durante o desenvolvimento da obra. Necessário apenas para as obras que terá pico de 20 trabalhadores ou mais.
+Pontos de Atenção:
+1- Identificação da contratada (Nome e CNPJ);
+2- Assinatura e registro do Eng. Seg do Trabalho;
+3- Local da obra;
+4- Validar funções e EPIs.
+- Risco Atrelado:
+- No caso de ausência do PCMAT:
+1- Multas do Ministérios do trabalho, por ocasiões de fiscalizações. As multas são em torno de R$3.900,00, em valores de julho de 2016;
+2- Ações trabalhistas e previdenciárias indenizatórias na Justiça do Trabalho, por empregados que aleguem ter contraído qualquer doença ocupacional ou se acidentado durante o período de contrato de trabalho;
+Quando comprovação de doenças ocupacionais ou acidente de trabalho sem o respaldo do PCMAT, os responsáveis pela empresa podem ser responsabilizados criminalmente.
+- Principais não conformidades e forma de regularização:
+👉Não conformidade: Documento com CNPJ divergente do informado no sistema.
+✔️Regularização: A empresa deverá apresentar a cópia do documento com o CNPJ correspondente ao cadastrado no portal da Bernhoeft.
+👉Não conformidade: Documento sem assinatura e registro do responsável pela elaboração.
+✔️Regularização: Deverá ser apresentado cópia do documento constando assinatura e número de registro do Eng. Seg do Trabalho responsável pela elaboração do documento, a assinatura não deverá ser “copiada e colada”.
+👉Não conformidade: Documento não informa todas as funções dos colaboradores mobilizados.
+✔️Regularização: A empresa deverá apresentar PCMAT atualizado onde evidencie as funções dos colaboradores que foram mobilizados.

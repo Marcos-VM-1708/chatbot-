@@ -57,3 +57,9 @@ def create_model(file_id, model_name, N_epocas):
     print(f"Job ID: {job.id}")
     return job.id
 
+def delete_file(file):
+    openai.File.delete(file)
+
+def delete_model(model):
+    openai.Model.delete(model)
+
